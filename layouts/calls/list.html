@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main>
+    <article>
+        <h1>{{ .Title }}</h1>
+        {{.Content}}
+    </article>
+    <ul>
+        {{ range .Pages }}
+        <li>
+            <a href="{{.RelPermalink}}">{{.Title}}</a>
+        </li>
+        {{ end }}
+    </ul>
+</main>
+{{ end }}
+
+{{ define "navbar" }}
+
+{{ partial "navbar.html" (dict 
+  "current" "calls"
+  "subnavbar" (slice
+  (dict "Calls for Papers: Research Track" "https://example.com")
+  )
+)}}
+{{ end }}

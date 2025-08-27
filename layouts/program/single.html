@@ -1,0 +1,22 @@
+{{ define "main" }}
+<main>
+    <h1 id="title">{{ .Title }}</h1>
+    <div>
+        <article id="content">
+            {{ .Content }}
+        </article>
+    </div>
+    <section>
+        <h2>Schedule</h2>
+        {{ range site.Data.schedule.days }}
+            {{ partial "schedule-table.html" . }}
+        {{ end }}
+    </section>
+</main>
+{{ end }}
+
+{{ define "navbar" }}
+{{ partial "navbar.html" (dict
+"current" "program"
+)}}
+{{ end }}

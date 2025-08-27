@@ -1,0 +1,19 @@
+{{ define "main" }}
+<main>
+    <h1 id="title">{{ .Title }}</h1>
+    <div>
+        <article id="content">
+            {{ .Content }}
+        </article>
+    </div>
+    <section style="margin-top: 4rem;">
+        {{ partial "social-share.html" (dict "url" .Permalink "title" .Title "show" (slice "facebook" "linkedin")) }}
+    </section>
+</main>
+{{ end }}
+
+{{ define "navbar" }}
+{{ partial "navbar.html" (dict
+"current" "calls"
+)}}
+{{ end }}

@@ -1,0 +1,69 @@
+<nav>
+    <ul id="navbar" data-current="{{ .current }}">
+        <li class="nav-item" data-id="home">
+            <a class="nav-item--link" href="">ESWC 2026</a>
+            <ul class="nav-submenu">
+                <li class="nav-submenu-item">
+                    <a href="history" class="nav-submenu-item--link">
+                        History
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="conference-metadata" class="nav-submenu-item--link">
+                        Conference Metadata
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="nav-item {{ if eq .current "calls" }} nav-item--active {{ end }}" data-id="calls">
+            <a class="nav-item--link" href="calls" >Calls</a>
+            <ul class="nav-submenu">
+                <li class="nav-submenu-item">
+                    <a href="calls/contributions-eswc" class="nav-submenu-item--link">
+                        Call for Contributions: ESWC 2026
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/papers-research-track" class="nav-submenu-item--link">
+                        Calls for Papers: Research Track
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="calls/papers-in-use-track" class="nav-submenu-item--link">
+                        Calls for Papers: In-Use Track
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+        <li class="nav-item" data-id="program">
+            <a class="nav-item--link" href="program">Program</a>
+        </li>
+
+        <li class="nav-item" data-id="attending">
+            <a class="nav-item--link nav-item-has-submenu" href="attending">Attending</a>
+        </li>
+
+        <li class="nav-item" data-id="sponsors-supporters">
+            <a class="nav-item--link nav-item-has-submenu" href="sponsors-supporters">Sponsors and Supporters</a>
+        </li>
+
+        <li class="nav-item" data-id="organization">
+            <a class="nav-item--link nav-item-has-submenu" href="organization">Organisation</a>
+            <ul class="nav-submenu">
+                <li class="nav-submenu-item">
+                    <a href="organization/organising-committee" class="nav-submenu-item--link">
+                        Organising Committee
+                    </a>
+                </li>
+                <li class="nav-submenu-item">
+                    <a href="organization/program-committee" class="nav-submenu-item--link">
+                        Program Committee
+                    </a>
+                </li>
+            </ul>
+        </li>
+
+    </ul>
+</nav>
