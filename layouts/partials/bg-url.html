@@ -1,0 +1,18 @@
+{{- /* bg-url.html: returns a single clean URL, no whitespace */ -}}
+{{- $default := "images/bg.jpg" -}}
+{{- $raw := .Param "background" | default $default -}}
+{{- $p := replaceRE "^/" "" $raw -}}
+
+{{- if or (hasPrefix $p "http://") (hasPrefix $p "https://") -}}
+{{- $p -}}
+{{- else -}}
+{{- with .Resources.GetMatch $p -}}
+{{- .RelPermalink -}}
+{{- else -}}
+{{- if fileExists (printf "static/%s" $p) -}}
+{{- $p | relURL -}}
+{{- else -}}
+{{- $default | relURL -}}
+{{- end -}}
+{{- end -}}
+{{- end -}}

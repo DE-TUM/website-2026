@@ -1,6 +1,13 @@
 ---
 title: "23rd European Semantic Web Conference (ESWC)"
 subtitle: "May 10-14, 2026 | Dubrovnik | Croatia"
+newsNewDays: 14 # mark items from the last 14 days as NEW (default 14)
+
+news:
+  - date: 2025-09-28
+    text: "[Call for Papers](/calls/) have been published!"     
+  - date: 2025-08-28
+    text: "Website launched 🎉"
 ---
 ## About ESWC
 The Extended Semantic Web Conference is a major venue for discussing the latest scientific results and technology innovations around semantic technologies. Building on its past success, ESWC is seeking to broaden its focus to span other relevant related research areas in which Web semantics plays an important role.

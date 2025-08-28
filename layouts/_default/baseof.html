@@ -79,7 +79,24 @@
   </header>
 
   <div class="main-container">
-    {{ block "main" . }}{{ end }}
+      {{ $bgURL := partial "bg-url.html" . }}
+      {{ $pad := cond .IsHome "25vh 0" "10vh 0" }}
+      <div class="container-full" style="
+        text-align: center;
+        width: 100%;
+        padding: {{ $pad }};
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background: linear-gradient(rgba(0,0,0,0.20), rgba(0,0,0,0.35)), url('{{ partial "bg-url.html" . }}');
+          background-size: cover;
+          background-position: center;
+          color: white;
+      ">
+      <h1 style="margin-top: 20px; text-align: center; color: white">23rd European Semantic Web Conference (ESWC)</h1>
+      <span style="color: white" class="subtitle">May 10-14, 2026 | Dubrovnik , Croatia</span>
+  </div>
+  {{ block "main" . }}{{ end }}
   </div>
 
   {{ partial "footer.html" }}

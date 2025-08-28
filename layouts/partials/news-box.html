@@ -1,0 +1,51 @@
+{{- /* News box: reads .Params.news on the homepage and marks recent items */ -}}
+{{- if and .IsHome (gt (len (.Param "news")) 0) -}}
+
+{{- $daysRaw := .Param "newsNewDays" | default (site.Param "newsNewDays") | default 14 -}}
+{{- $days := int $daysRaw -}}
+{{- $negDays := int (sub 0 $days) -}}
+{{- $cut := now.AddDate 0 0 $negDays -}}
+{{- $mode := .Param "newsBadge" | default (site.Param "newsBadge") | default "text" -}}
+
+<div class="news-box" role="region" aria-label="Latest news">
+    <div class="news-box__header">News</div>
+    <ul class="news-box__list">
+        {{- range .Params.news -}}
+        {{- $isMap := reflect.IsMap . -}}
+
+        {{- /* compute date safely */ -}}
+        {{- $date := false -}}
+        {{- if and $isMap (isset . "date") (ne .date "") -}}
+        {{- $date = time .date -}}
+        {{- end -}}
+
+        {{- /* explicit 'new' flag if present */ -}}
+        {{- $explicit := and $isMap (isset . "new") .new -}}
+
+        {{- /* item is recent if it has a date and date >= cutoff */ -}}
+        {{- $recent := and $date (ge $date $cut) -}}
+        {{- $isNew := or $explicit $recent -}}
+
+        <li class="news-box__item">
+            {{- with $date -}}
+            <time class="news-box__date" datetime="{{ . }}">{{ .Format "02 Jan 2006" }}</time>
+            {{- end -}}
+
+            {{- if and $isMap (isset . "text") -}}
+            <span class="news-box__text">{{ .text | markdownify }}</span>
+            {{- else -}}
+            <span class="news-box__text">{{ . | markdownify }}</span>
+            {{- end -}}
+
+            {{- if $isNew -}}
+            {{- if eq $mode "emoji" -}}
+            <span class="news-box__badge-emoji" aria-label="New">🆕</span>
+            {{- else -}}
+            <span class="news-box__badge" aria-hidden="true">NEW</span><span class="sr-only"> (new)</span>
+            {{- end -}}
+            {{- end -}}
+        </li>
+        {{- end -}}
+    </ul>
+</div>
+{{- end -}}
