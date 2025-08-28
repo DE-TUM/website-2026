@@ -12,3 +12,8 @@ disableKinds:
 
 theme:
   - "tum-hugo"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
