@@ -79,7 +79,6 @@
   </header>
 
   <div class="main-container">
-    {{ block "breadcrumbs" . }} {{ partial "breadcrumbs" (dict "link" .RelPermalink )}} {{ end }}
     {{ block "main" . }}{{ end }}
   </div>
 
