@@ -175,9 +175,9 @@ Award and event sponsorship is **available as an addition** to **Silver packages
 
 **Available Awards**:
 - Best research paper
+- Best research student paper
 - Best in-use paper
 - Best resource paper
-- Best student paper
 - Best doctoral consortium paper
 - Best poster & best demo
 - Best reviewer (all categories)
@@ -197,5 +197,5 @@ Award and event sponsorship is **available as an addition** to **Silver packages
 Individual sponsorship packages can be designed on request.
 
 ## Contact
-* John Dominge 
-* Alberto 
+* John Domingue, Open University, UK   [john.domingue@open.ac.uk](mailto:john.domingue@open.ac.uk)
+* Albert Meroño Peñuela, King's College London, UK  [albert.merono@kcl.ac.uk](mailto:albert.merono@kcl.ac.uk)
