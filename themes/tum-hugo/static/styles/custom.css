@@ -380,10 +380,23 @@ body {
     font-size: 1rem;
     background-color: var(--color-bg);
 }
-.two-cols { display:flex; gap:1rem; }
+
+.two-cols {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap; /* optional, but helps with some edge cases */
+}
+
 .two-cols .left  { flex: 2 1 0; }
 .two-cols .right { flex: 1 1 0; }
-/* ↑ sizing */
+
+/* Responsive layout for small screens */
+@media (max-width: 768px) {
+    .two-cols {
+        flex-direction: column;
+    }
+}
+
 
 /* Expandable images */
 div.image--expandable:hover {
