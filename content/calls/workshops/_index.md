@@ -103,10 +103,10 @@ We also encourage the submission of workshops that extend the typical workshop f
 
 ## Workshop & Tutorial Chairs
 
-- **Claudia d’Amato** 
+- **Claudia d’Amato** \
   University of Bari, Italy
 
-- **Sebastian Neumaier** 
+- **Sebastian Neumaier** \ 
   St. Pölten University of Applied Sciences, Austria
 
 Contact: [eswc2026-wt@easychair.org](mailto:eswc2026-wt@easychair.org)

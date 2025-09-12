@@ -64,12 +64,14 @@ Each proposal must consist of a single PDF document written in English, no longe
     * Other venues at which the tutorial or parts thereof have been or will be presented, in addition to explaining if/how the proposed tutorial differs from these other editions. Links to slides of those tutorial editions should be included in the proposal, as well as the approximate number of participants if available.
 * Brief professional **biography of the presenter(s)** documenting the seniority (we recommend having at least one junior researcher), expertise relevant to the topic of the tutorial, as well as previous training and speaking experience (such as teaching and tutorial presentation).
 
+---
+
 ## Workshop & Tutorial Chairs
 
-- **Claudia d’Amato** 
+- **Claudia d’Amato** \
   University of Bari, Bari, Italy
 
-- **Sebastian Neumaier** 
+- **Sebastian Neumaier** \ 
   St. Pölten University of Applied Sciences, Austria
 
 Contact: [eswc2026-wt@easychair.org](mailto:eswc2026-wt@easychair.org) 
