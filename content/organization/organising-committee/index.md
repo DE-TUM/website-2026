@@ -5,51 +5,54 @@ aliases:
 ---
 
 ### General Chair
-{{< committee img="images/2026-logo.png" name="Maribel Acosta" affiliation="Technical University of Munich" country="Germany" >}}
+{{< committee img="images/people/acosta.jpg" name="Maribel Acosta" affiliation="Technical University of Munich" country="Germany" >}}
 
 ### Research Track Chairs 
-{{< committee img="images/2026-logo.png" name="Marieke van Erp" affiliation="KNAW Humanities Cluster" country="The Netherlands" >}}
-{{< committee img="images/people/test.png" name="Sebastian Rudolph" affiliation="Sebastian Rudolph" country="Germany" >}}
-Contact: [research-eswc2026@easychair.org](mailto:research-eswc2026@easychair.org)
+{{< committee img="images/people/von-erp.jpeg" name="Marieke van Erp" affiliation="KNAW Humanities Cluster" country="The Netherlands" >}}
+{{< committee img="images/people/rudolph.png" name="Sebastian Rudolph" affiliation="Sebastian Rudolph" country="Germany" >}}
+Contact: [eswc2026-research@easychair.org](mailto:eswc2026-research@easychair.org)
 
 ### Resources Track Chairs
-{{< committee img="images/2026-logo.png" name="Blerina Spahiu" affiliation="University of Milano - Bicocca" country="Italy" >}}
-{{< committee img="images/2026-logo.png" name="Olaf Hartig" affiliation="Linköping University" country="Sweden" >}}
+{{< committee img="images/people/hartig.jpg" name="Olaf Hartig" affiliation="Linköping University" country="Sweden" >}}
+{{< committee img="images/people/spahiu.jpeg" name="Blerina Spahiu" affiliation="University of Milano - Bicocca" country="Italy" >}}
 
-Contact: [research-eswc2026@easychair.org](mailto:resources-eswc2026@easychair.org)
+Contact: [eswc2026-resources@easychair.org](mailto:eswc2026-resources@easychair.org)
 
 ### In-Use Track Chairs
-{{< committee img="images/2026-logo.png" name="Anisa Rula" affiliation="University of Brescia" country="Italy" >}}
-{{< committee img="images/2026-logo.png" name="Daniel Garijo" affiliation="Universidad Politécnica de Madrid" country="Spain" >}}
-Contact: [research-eswc2026@easychair.org](mailto:inuse-eswc2026@easychair.org)
+{{< committee img="images/people/rula.jpg" name="Anisa Rula" affiliation="University of Brescia" country="Italy" >}}
+{{< committee img="images/people/garijo.png" name="Daniel Garijo" affiliation="Universidad Politécnica de Madrid" country="Spain" >}}
+Contact: [eswc2026-inuse@easychair.org](mailto:eswc2026-inuse@easychair.org)
 
 ### PhD Symposium Chairs
-{{< committee img="images/2026-logo.png" name="Maria-Esther Vidal" affiliation="Leibniz University of Hannover, TIB" country="Germany" >}}
-{{< committee img="images/2026-logo.png" name="Victor de Boer " affiliation="Vrije Universiteit Amsterdam" country="The Netherlands" >}}
+{{< committee img="images/people/vidal.jpg" name="Maria-Esther Vidal" affiliation="Leibniz University of Hannover, TIB" country="Germany" >}}
+{{< committee img="images/people/de-boer.jpg" name="Victor de Boer" affiliation="Vrije Universiteit Amsterdam" country="The Netherlands" >}}
 
 ### Workshops & Tutorials Chairs
-{{< committee img="images/2026-logo.png" name="Claudia D'Amato" affiliation="University of Bari" country="Italy" >}}
-{{< committee img="images/2026-logo.png" name="Sebastian Neumaier" affiliation="St. Pölten University of Applied Sciences" country="Austria" >}}
-
+{{< committee img="images/people/d-amato.jpeg" name="Claudia D'Amato" affiliation="University of Bari" country="Italy" >}}
+{{< committee img="images/people/neumaier.jpeg" name="Sebastian Neumaier" affiliation="St. Pölten University of Applied Sciences" country="Austria" >}}
+Contact: [eswc2026-wt@easychair.org](mailto:eswc2026-wt@easychair.org)
 <!-- ### Posters & Demos Chairs --> 
 
 <!-- ### Industry Track Chairs --> 
 
 ### Student Mentoring Chair
-{{< committee img="images/2026-logo.png" name="Pieter Colpaert" affiliation="Ghent University - IMEC" country="Belgium" >}}
+{{< committee img="images/people/colpaert.jpg" name="Pieter Colpaert" affiliation="Ghent University - IMEC" country="Belgium" >}}
 
 
 ### Sponsor Chairs
-{{< committee img="images/2026-logo.png" name="Albert Meroño" affiliation="King's College London" country="UK" >}}
-{{< committee img="images/2026-logo.png" name="John Domingue" affiliation="KMi, The Open University" country="UK" >}}
-
+{{< committee img="images/people/merono.jpeg" name="Albert Meroño Peñuela" affiliation="King's College London" country="UK" >}}
+{{< committee img="images/people/domingue.jpg" name="John Domingue" affiliation="KMi, The Open University" country="UK" >}}
 
 <!-- ### Project Networking Chairs -->
 
+### Program Coordinator
+{{< committee img="images/people/poveda.jpg" name="María Poveda-Villalón" affiliation="Universidad Politécnica de Madrid" country="Spain" >}}
+
 ### Web & Publicity Chairs
-{{< committee img="images/2026-logo.png" name="Tabea Tietz " affiliation="FIZ, Karlsruhe Institute of Technology" country="Germany" >}}
-{{< committee img="images/2026-logo.png" name="Pierre Monin" affiliation="Université Côte d'Azur, Inria, CNRS, I3S" country="France" >}}
-{{< committee img="images/2026-logo.png" name="Ignacio García" affiliation="Technical University of Munich" country="Germany" >}}
+{{< committee img="images/people/tietz.png" name="Tabea Tietz " affiliation="FIZ, Karlsruhe Institute of Technology" country="Germany" >}}
+{{< committee img="images/people/monnin.jpg" name="Pierre Monnin" affiliation="Université Côte d'Azur, Inria, CNRS, I3S" country="France" >}}
+{{< committee img="images/people/garcia.jpeg" name="Ignacio García" affiliation="Technical University of Munich" country="Germany" >}}
+
 
 
 <!-- ### Proceedings Chair -->
