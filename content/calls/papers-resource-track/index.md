@@ -146,15 +146,15 @@ Papers accepted in the **Research**, **In-Use**, and **Resources** tracks will a
 
 
 ---
-## Track Chairs
+## Resources Track Chairs
 
 - **Olaf Hartig**  
-  Linköping University, Sweden  
-  [olaf.hartig@liu.se](mailto:olaf.hartig@liu.se)
+  Linköping University, Sweden
 
 - **Blerina Spahiu**  
   University of Milano-Bicocca, Italy  
-  [blerina.spahiu@unimib.it](mailto:blerina.spahiu@unimib.it)
+  
+Contact: [eswc2026-resources@easychair.org](mailto:eswc2026-resources@easychair.org)
 
 ---
 

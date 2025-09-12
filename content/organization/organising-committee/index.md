@@ -15,7 +15,6 @@ Contact: [eswc2026-research@easychair.org](mailto:eswc2026-research@easychair.or
 ### Resources Track Chairs
 {{< committee img="images/people/hartig.jpg" name="Olaf Hartig" affiliation="Linköping University" country="Sweden" >}}
 {{< committee img="images/people/spahiu.jpeg" name="Blerina Spahiu" affiliation="University of Milano - Bicocca" country="Italy" >}}
-
 Contact: [eswc2026-resources@easychair.org](mailto:eswc2026-resources@easychair.org)
 
 ### In-Use Track Chairs
