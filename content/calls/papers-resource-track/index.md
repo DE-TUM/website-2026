@@ -133,7 +133,7 @@ Authors should guarantee easy access to the resource throughout the review proce
 | Notification to Authors      | February 16, 2026   |
 | Camera-Ready Papers Due      | March 16, 2026      |
 
- All deadlines are **23:59 Anywhere on Earth (UTC-12)**.
+All deadlines are **23:59 Anywhere on Earth (UTC-12)**.
 
 ---
 
