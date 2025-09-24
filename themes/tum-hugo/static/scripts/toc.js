@@ -53,6 +53,9 @@ function get_toc_content() {
     
     // Get valid headers
     let content = document.getElementsByTagName("main")[0];
+    if (content === undefined) {
+        return;
+    }
     let headers = []
     for (let header of HEADERS) {
         headers = unfold(content).filter(node => header === node.tagName);
