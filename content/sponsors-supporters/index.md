@@ -107,7 +107,7 @@ Our sponsorship packages are listed below. In addition to these packages, we enc
     <tr><td colspan="7" style="border:1px solid #ccc; padding:.6rem; background:var(--color-accent); font-weight:700; color:#fff;">MEDIA COVERAGE</td> </tr>
     <tr>
       <td rowspan="2" style="border:1px solid #ccc; padding:.6rem; color:var(--color-accent); font-weight:700;">SOCIAL MEDIA</td>
-      <td style="border:1px solid #ccc; padding:.6rem;">Follow by the ESWC Twitter account</td>
+      <td style="border:1px solid #ccc; padding:.6rem;">Follow by the ESWC LinkedIn account</td>
       <td style="border:1px solid #ccc; text-align:center;">–</td>
       <td style="border:1px solid #ccc; text-align:center;">✓</td>
       <td style="border:1px solid #ccc; text-align:center;">✓</td>
