@@ -9,7 +9,7 @@ aliases:
 
 ### Research Track Chairs 
 {{< committee img="images/people/von-erp.jpeg" name="Marieke van Erp" affiliation="KNAW Humanities Cluster" country="The Netherlands" >}}
-{{< committee img="images/people/rudolph.png" name="Sebastian Rudolph" affiliation="Sebastian Rudolph" country="Germany" >}}
+{{< committee img="images/people/rudolph.png" name="Sebastian Rudolph" affiliation="TU Dresden, ScaDS.AI" country="Germany" >}}
 Contact: [eswc2026-research@easychair.org](mailto:eswc2026-research@easychair.org)
 
 ### Resources Track Chairs
@@ -27,7 +27,7 @@ Contact: [eswc2026-inuse@easychair.org](mailto:eswc2026-inuse@easychair.org)
 {{< committee img="images/people/de-boer.jpg" name="Victor de Boer" affiliation="Vrije Universiteit Amsterdam" country="The Netherlands" >}}
 
 ### Workshops & Tutorials Chairs
-{{< committee img="images/people/d-amato.jpeg" name="Claudia D'Amato" affiliation="University of Bari" country="Italy" >}}
+{{< committee img="images/people/d-amato.jpg" name="Claudia D'Amato" affiliation="University of Bari" country="Italy" >}}
 {{< committee img="images/people/neumaier.jpeg" name="Sebastian Neumaier" affiliation="St. Pölten University of Applied Sciences" country="Austria" >}}
 Contact: [eswc2026-wt@easychair.org](mailto:eswc2026-wt@easychair.org)
 <!-- ### Posters & Demos Chairs --> 

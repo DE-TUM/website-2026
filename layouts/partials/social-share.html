@@ -9,14 +9,14 @@
 {{ $show := .show | default (slice "facebook" "linkedin") }}
 
 <div class="social-share" style="display: flex; gap: 10px;">
-    {{ if in $show "facebook" }}
+    {{ if in $show "mastodon" }}
     <a
             href="https://www.facebook.com/sharer/sharer.php?u={{ $url | urlquery }}"
             target="_blank"
             rel="noopener noreferrer"
-            class="social-btn facebook"
+            class="social-btn mastodon"
     >
-        Share on Facebook
+        Share on Mastodon
     </a>
     {{ end }}
 

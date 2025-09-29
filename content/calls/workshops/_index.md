@@ -69,7 +69,7 @@ Suggested Timeline for Workshop Papers:
 
 ## Submission Guidelines
 
-Workshop proposals have to be submitted via EasyChair ([https://easychair.org/conferences?conf=eswc2026](https://easychair.org/conferences?) ) by selecting the “Workshop & Tutorials” track.
+Workshop proposals have to be submitted via EasyChair ([https://easychair.org/conferences?conf=eswc2026](https://easychair.org/conferences?conf=eswc2026)) by selecting the “Workshop & Tutorials” track.
 
 Each proposal must consist of a **single PDF document** written in English, no longer than four pages (excluding the list of PC members), which contains the following information.
 
@@ -106,7 +106,7 @@ We also encourage the submission of workshops that extend the typical workshop f
 - **Claudia d’Amato** \
   University of Bari, Italy
 
-- **Sebastian Neumaier** \ 
+- **Sebastian Neumaier** \
   St. Pölten University of Applied Sciences, Austria
 
 Contact: [eswc2026-wt@easychair.org](mailto:eswc2026-wt@easychair.org)

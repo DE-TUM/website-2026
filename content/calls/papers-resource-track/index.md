@@ -124,14 +124,14 @@ Authors should guarantee easy access to the resource throughout the review proce
 
 ## Important Dates
 
-| Deadline                      | Date                |
-|------------------------------|---------------------|
-| Abstract Submission          | November 27, 2025   |
-| Full Paper Submission        | December 4, 2025    |
-| Rebuttal Period Opens        | January 22, 2026    |
-| Rebuttal Period Closes       | January 27, 2026    |
-| Notification to Authors      | February 16, 2026   |
-| Camera-Ready Papers Due      | March 16, 2026      |
+| Deadline                      | Date              |
+|------------------------------|-------------------|
+| Abstract Submission          | November 27, 2025 |
+| Full Paper Submission        | December 4, 2025  |
+| Rebuttal Period Opens        | January 19, 2026  |
+| Rebuttal Period Closes       | January 22, 2026  |
+| Notification to Authors      | February 12, 2026 |
+| Camera-Ready Papers Due      | March 11, 2026    |
 
 All deadlines are **23:59 Anywhere on Earth (UTC-12)**.
 
