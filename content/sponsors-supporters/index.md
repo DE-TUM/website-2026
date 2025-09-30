@@ -34,7 +34,7 @@ Our sponsorship packages are listed below. In addition to these packages, we enc
       <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Silver<br>€ 1,000</th>
       <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Gold<br>€ 3,000</th>
       <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Platinum<br>€ 5,000</th>
-      <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Diamond<br>€ 6,500</th>
+      <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Diamond<br>€ 7,500</th>
     </tr>
   </thead>
 
@@ -115,12 +115,12 @@ Our sponsorship packages are listed below. In addition to these packages, we enc
       <td style="border:1px solid #ccc; text-align:center;">✓</td>
     </tr>
     <tr>
-      <td style="border:1px solid #ccc; padding:.6rem;">Tweets advertising your webpage by the ESWC account as a sponsor</td>
+      <td style="border:1px solid #ccc; padding:.6rem;">LinkedIn posts advertising your webpage by the ESWC account as a sponsor</td>
       <td style="border:1px solid #ccc; text-align:center;">–</td>
       <td style="border:1px solid #ccc; text-align:center;">–</td>
       <td style="border:1px solid #ccc; text-align:center;">–</td>
-      <td style="border:1px solid #ccc; text-align:center;">2&nbsp;tweets</td>
-      <td style="border:1px solid #ccc; text-align:center;">2&nbsp;tweets</td>
+      <td style="border:1px solid #ccc; text-align:center;">2&nbsp;posts</td>
+      <td style="border:1px solid #ccc; text-align:center;">2&nbsp;posts</td>
     </tr>
     <tr>
       <td rowspan="3" style="border:1px solid #ccc; padding:.6rem; color:var(--color-accent); font-weight:700;">IN‑PLACE PROMOTION</td>
@@ -193,9 +193,11 @@ Award and event sponsorship is **available as an addition** to **Silver packages
 - Poster session reception
 - Doctoral consortium dinner
 
+-----
 ## Individual Packages
 Individual sponsorship packages can be designed on request.
 
+-----
 ## Contact
 * John Domingue, Open University, UK   [john.domingue@open.ac.uk](mailto:john.domingue@open.ac.uk)
 * Albert Meroño Peñuela, King's College London, UK  [albert.merono@kcl.ac.uk](mailto:albert.merono@kcl.ac.uk)
