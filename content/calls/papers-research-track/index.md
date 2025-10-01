@@ -6,6 +6,8 @@ title: "Call for Papers: Research Track"
 
 The research track of ESWC 2026 is looking for contributions addressing theoretical, analytical, and empirical aspects of the Semantic Web, knowledge graphs and semantic technologies in general and their relation with AI. We also encourage contributions at the intersection of these domains and other scientific disciplines. Submissions to the research track should describe novel, significant research, and are expected to provide a principled evaluation.
 
+Submission Link: [EasyChair](https://easychair.org/conferences/?conf=eswc2026)
+
 ## Topics
 Submissions are solicited in the following domains of interest:
 

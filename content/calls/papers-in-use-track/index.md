@@ -72,7 +72,7 @@ All deadlines are 23:59 anywhere on earth (UTC-12).
 * Submissions must be either in PDF or in HTML, formatted in the style of the Springer Publications format for **Lecture Notes in Computer Science (LNCS)**. For details on the LNCS style, see Springer’s Author Instructions. For HTML submission guidance, see [the HTML submission guide](https://2022.eswc-conferences.org/html-submission-guide/).
 * Authors will have the opportunity to submit a rebuttal to the reviews to clarify questions posed by program committee members.
 * At least one author per contribution must register for the conference for an in-person presentation.
-* Submission is done through [EasyChair](https://easychair.org/conferences/?conf=eswc2023). When logging in, select the appropriate track.
+* Submission is done through [EasyChair](https://easychair.org/conferences/?conf=eswc2026). When logging in, select the appropriate track.
 * It is highly recommended that authors ensure access to the code, data and application during the review process, ideally by citing these research artifacts  at a permanent location. See the guidelines for resources for examples and guidance on how to cite your code and datasets.
 
 ## In-Use Track Chairs
