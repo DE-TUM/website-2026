@@ -6,7 +6,7 @@ newsNewDays: 14 # mark items from the last 14 days as NEW (default 14)
 news:
   - date: 2025-09-29
     text: "[Call for Papers](/calls/) have been published!"     
-  - date: 2025-08-29
+  - date: 2025-09-29
     text: "Website launched 🎉"
 ---
 ## About ESWC
