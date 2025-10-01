@@ -13,8 +13,6 @@ Our sponsorship packages are listed below. In addition to these packages, we enc
 
 
 <table>
-  
-
   <!-- column widths -->
   <colgroup>
     <col style="width:18%;">
@@ -181,6 +179,57 @@ Award and event sponsorship is **available as an addition** to **Silver packages
 - Best doctoral consortium paper
 - Best poster & best demo
 - Best reviewer (all categories)
+
+
+<table>
+  <colgroup>
+    <col style="width:60%;">
+    <col style="width:40%;">
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th style="border:1px solid #ccc; padding:.6rem; color:var(--color-accent); font-weight:700;">Award<br>(Minimum Silver Sponsor)</th>
+      <th style="border:1px solid #ccc; padding:.6rem; color:var(--color-accent); text-align:right; font-weight:700;">Sponsor Price</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ccc; padding:.6rem;">Best Research Paper</td>
+      <td style="border:1px solid #ccc; padding:.6rem; text-align:right;">€ 1,500</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:.6rem;">Best In-Use Paper</td>
+      <td style="border:1px solid #ccc; padding:.6rem; text-align:right;">€ 500</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:.6rem;">Best Resource Paper</td>
+      <td style="border:1px solid #ccc; padding:.6rem; text-align:right;">€ 500</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:.6rem;">Best Student Research Paper</td>
+      <td style="border:1px solid #ccc; padding:.6rem; text-align:right;">€ 500</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:.6rem;">Best Doctoral Consortium Paper</td>
+      <td style="border:1px solid #ccc; padding:.6rem; text-align:right;">€ 500</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:.6rem;">Best Poster</td>
+      <td style="border:1px solid #ccc; padding:.6rem; text-align:right;">€ 500</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ccc; padding:.6rem;">Best Demo</td>
+      <td style="border:1px solid #ccc; padding:.6rem; text-align:right;">€ 500</td>
+    </tr>
+     <tr>
+      <td style="border:1px solid #ccc; padding:.6rem;">Best Reviewer</td>
+      <td style="border:1px solid #ccc; padding:.6rem; text-align:right;">€ 500</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 🎉 Event Sponsorship
 
