@@ -25,8 +25,8 @@ Our sponsorship packages are listed below. In addition to these packages, we enc
   <thead>
     <tr>
       <th colspan="2" style="border:1px solid #ccc; padding:.6rem; text-align:left;"></th>
-      <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Bronze<br>€ 500</th>
-      <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Silver<br>€ 1,000</th>
+      <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Bronze<br>€ 1,000</th>
+      <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Silver<br>€ 2,000</th>
       <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Gold<br>€ 3,000</th>
       <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Platinum<br>€ 5,000</th>
       <th style="border:1px solid #ccc; padding:.6rem; text-align:center;">Diamond<br>€ 7,500</th>
