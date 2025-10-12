@@ -140,7 +140,7 @@ The ESWC conference series rule document can be downloaded here: [Rules of ESWC]
 - **General Chair:** Albert Meroño Peñuela
 - **Program Chairs:** Anastasia Dimou, Raphaël Troncy
 
-### [22nd Extended Semantic Web Conference (ESWC2023)](http://2023.eswc-conferences.org)
+### [22nd Extended Semantic Web Conference (ESWC2025)](http://2025.eswc-conferences.org)
 - **Date:** June 1 – June 5, 2025
 - **Location:** Portoroz, Slovenia
 - **General Chair:** Edward Curry
