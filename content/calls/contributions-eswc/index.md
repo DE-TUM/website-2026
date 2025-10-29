@@ -54,9 +54,7 @@ All deadlines are **23:59 Anywhere on Earth (UTC-12)**.
     - Authors may submit a rebuttal during the rebuttal period
 - At least one author of each accepted contribution must register and attend the conference to present.
 - Submission is handled via [EasyChair](https://easychair.org/conferences?conf=eswc2026). Be sure to select the correct track when submitting.
-
-
-<!-- - Accepted papers will be published in **Springer's Lecture Notes in Computer Science (LNCS)** series. Open access preprints will also be available. -->
+- Accepted papers will be published in **Springer's Lecture Notes in Computer Science (LNCS)** series. Open access preprints will also be available. 
 
 ---
 
