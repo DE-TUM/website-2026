@@ -18,6 +18,15 @@ Co-located workshops at the ESWC conferences are essential meeting points for di
 
 ---
 
+## New: Dagstuhl-Style Workshops
+
+In addition to traditional workshop formats, ESWC 2026 welcomes proposals for Dagstuhl-style workshops. Inspired by the Dagstuhl Seminar model and the successful special sessions at ISWC 2024 and 2025, these workshops emphasize open, collaborative, and discussion-driven formats. Rather than focusing on paper presentations, Dagstuhl-style workshops prioritize dynamic exchanges, brainstorming, and exploration of emerging or challenging topics. 
+
+Organizers should aim to assemble a diverse group of participants, including senior researchers, early-career researchers, and practitioners, and design a structure that fosters creativity and interdisciplinary dialogue. These workshops may be half-day or full-day events and proposals should outline the intended discussion format (e.g., breakout sessions, open spaces, position statements), expected outcomes (e.g., collaborative reports, new research directions), and how the organizers will facilitate meaningful interaction. 
+This format is ideal for cultivating new ideas and forming future collaborations, and we encourage submissions that push the boundaries of conventional workshop design.
+
+---
+
 ## General Information and Criteria
 
 Each proposal will be reviewed by the Workshop Chairs and ranked based on the overall quality of the proposal and fit to the conference. The review criteria are as follows.
@@ -76,6 +85,7 @@ Each proposal must consist of a **single PDF document** written in English, no l
 ### Information about the workshop
 
 * **Title** and **abstract**, 300 words maximum, for inclusion on the ESWC 2026 website.
+* **Workshop Type:** Indicate whether the workshop is a traditional format or Dagstuhl style, and if it is novel or established.
 * A brief text illustrating
     * **why the topic is of particular interest** at this time,
     * **why and to whom the workshop is of interest**, the workshop audience, as well as the expected number of participants,

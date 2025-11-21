@@ -4,6 +4,8 @@ subtitle: "May 10-14, 2026 | Dubrovnik | Croatia"
 newsNewDays: 14 # mark items from the last 14 days as NEW (default 14)
 
 news:
+  - date: 2025-11-21
+    text: "Workshop call updated!"
   - date: 2025-09-29
     text: "[Call for Papers](/calls/) have been published!"     
   - date: 2025-09-29
