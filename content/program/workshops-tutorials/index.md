@@ -58,7 +58,7 @@ aliases:
 ----
 > **Seventh International Workshop on Knowledge Graph Construction**
 
-- Website:
+- Website: [https://w3id.org/kg-construct/workshop/2026](https://w3id.org/kg-construct/workshop/2026)
 - Organizers: David Chaves-Fraga, Anastasia Dimou, Christophe Debruyne, Enrique Iglesias and Sitt Min Oo
 - Length: Full-day
 
@@ -79,14 +79,14 @@ aliases:
 ----
 > **2nd ODRL and beyond: practical applications and challenges for policy-base access and usage control**
 
-- Website:[https://opal-workshop.github.io/2026-2nd-edition](https://opal-workshop.github.io/2026-2nd-edition/)
+- Website: [https://opal-workshop.github.io/2026-2nd-edition](https://opal-workshop.github.io/2026-2nd-edition/)
 - Organizers: Andrea Cimmino Arriaga, Nicoletta Fornara, Beatriz Esteves and Víctor Rodríguez Doncel
 - Length: Half-day
 
 ----
 > **Trust, Autonomy, and Accountability in PKG-Based Agentic AI (TAAPAAI) 2nd Edition**
 
-- Website:
+- Website: [https://taapaai.github.io](https://taapaai.github.io)
 - Organizers: John Domingue, Aidan Hogan, Sabrina Kirrane and Oshani Seneviratne
 - Length: Full-day
 
@@ -100,7 +100,7 @@ aliases:
 ----
 > **Causal Neuro-symbolic Artificial Intelligence (Causal NeSy): Toward Agentic LLMs with Neuro-Symbolic and Graph Based Reasoning**
 
-- Website:
+- Website: [https://sites.google.com/view/causalnesy2026](https://sites.google.com/view/causalnesy2026)
 - Organizers: Utkarshani Jaimini, Cory Henson, Chathurangi Shyalika and Amit Sheth
 - Length: Full-day
 
@@ -109,7 +109,7 @@ aliases:
 ----
 > **Navigating Reference Data: Advanced Techniques for Editing, Visualising and Retrieving Reference Datasets**
 
-- Website:
+- Website: [https://op.europa.eu/en/web/eu-vocabularies/conference-tutorials](https://op.europa.eu/en/web/eu-vocabularies/conference-tutorials)
 - Organizers: Aniko Gerencser, Vassilis Tzouvaras, Cosimo Palma, Lucy Walhain, Sebastien Albouze and Yann Duperis
 - Length: Half-day
 
@@ -123,7 +123,7 @@ aliases:
 ----
 > **Knowledge Graph-Powered Decentralized Personalization**
 
-- Website:
+- Website: [https://brains-group.github.io/PKG-Recs](https://brains-group.github.io/PKG-Recs)
 - Organizers: Oshani Seneviratne and Fernando Spadea
 - Length: Half-day
 
