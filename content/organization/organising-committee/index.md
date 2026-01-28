@@ -35,9 +35,14 @@ Contact: [eswc2026-inuse@easychair.org](mailto:eswc2026-inuse@easychair.org)
 {{< committee img="images/people/d-amato.jpg" name="Claudia D'Amato" affiliation="University of Bari" country="Italy" >}}
 {{< committee img="images/people/neumaier.jpeg" name="Sebastian Neumaier" affiliation="St. Pölten University of Applied Sciences" country="Austria" >}}
 Contact: [eswc2026-wt@easychair.org](mailto:eswc2026-wt@easychair.org)
-<!-- ### Posters & Demos Chairs --> 
 
-<!-- ### Industry Track Chairs --> 
+
+### Industry Track Chairs 
+{{< committee img="images/people/heling.png" name="Lars Heling" affiliation="SAP" country="Germany" >}}
+{{< committee img="images/people/schmid.png" name="Stefan Schmid" affiliation="Bosch Research" country="Germany" >}}
+Contact: [eswc2026-industry@easychair.org](mailto:eswc2026-industry@easychair.org)
+
+
 
 ### Student Mentoring Chair
 {{< committee img="images/people/colpaert.jpg" name="Pieter Colpaert" affiliation="Ghent University - IMEC" country="Belgium" >}}
