@@ -25,11 +25,13 @@ Contact: [eswc2026-inuse@easychair.org](mailto:eswc2026-inuse@easychair.org)
 ### PhD Symposium Chairs
 {{< committee img="images/people/vidal.jpg" name="Maria-Esther Vidal" affiliation="Leibniz University of Hannover, TIB" country="Germany" >}}
 {{< committee img="images/people/de-boer.jpg" name="Victor de Boer" affiliation="Vrije Universiteit Amsterdam" country="The Netherlands" >}}
+Contact: [eswc2026-phd@easychair.org](mailto:eswc2026-phd@easychair.org)
+
 
 ### Poster and Demo Chairs
 {{< committee img="images/people/lisena.jpeg" name="Pasquale Lisena" affiliation="EURECOM" country="France" >}}
 {{< committee img="images/people/sabou.png" name="Marta Sabou" affiliation="WU Wien" country="Austria" >}}
-
+Contact: [eswc2026-pd@easychair.org](mailto:eswc2026-pd@easychair.org) 
 
 ### Workshops & Tutorials Chairs
 {{< committee img="images/people/d-amato.jpg" name="Claudia D'Amato" affiliation="University of Bari" country="Italy" >}}
@@ -66,12 +68,10 @@ Contact: [eswc2026-industry@easychair.org](mailto:eswc2026-industry@easychair.or
 {{< committee img="images/people/monnin.jpg" name="Pierre Monnin" affiliation="Université Côte d'Azur, Inria, CNRS, I3S" country="France" >}}
 {{< committee img="images/people/garcia.jpeg" name="Ignacio García" affiliation="Technical University of Munich" country="Germany" >}}
 
-### Proceeding Chair
+### Proceedings Chair
 {{< committee img="images/people/osborne.png" name="Francesco Osborne" affiliation="KMi, The Open University" country="UK" >}}
 
 
-
-<!-- ### Proceedings Chair -->
 
 ### Acknowledgments 
 - **ESWC Logo:** Tim Schwabe (TUM), Maribel Acosta (TUM)
