@@ -1,9 +1,10 @@
 ---
-title: "Call For Posters and Demos"
+title: "Call For Papers: Industry Track"
 
 ---
 
 The ESWC industry track is a forum for exchanging ideas, results, and lessons learned amongst Semantic Web researchers, technologists, and product leaders across industry and academia. The goal is to learn from the process of bringing cutting-edge Semantic Web research to state-of-the-art applications and to align current research efforts with existing real-world requirements that justify the adoption of novel approaches in the face of otherwise unfeasible challenges.
+
 The industry track aims to identify the application domains of Semantic Web technologies that present the state of adoption of Semantic Web technologies in the industry, and facilitate a discussion about what current industry challenges can be addressed with Semantic Web technologies, the hurdles that may stand in the way of broader adoption, and any novel problems and use cases.
 
 ## Topics of Interest
