@@ -25,7 +25,7 @@ ESWC 2026 will take place in the **[Hotel Dubrovnik Palace](https://www.adriatic
 
 
 ## Traveling 
-Main directions you can fly from/to Dubrovnik
+Main directions you can fly from/to Dubrovnik airport (DBV)
 
 ### Within Croatia
 * Zagreb (Croatia Airlines)
@@ -43,10 +43,10 @@ Main directions you can fly from/to Dubrovnik
 * Dubai (Flydubai)
 * Newark (NYC area, USA) (United Airlines)
 
-## Accommodation
+## Accommodation at the Conference Venue
 The **Hotel Dubrovnik Palace** offers special rates for ESWC attendees. 
 
-**PROMO CODE:** *To be announced soon*
+**PROMO CODE:** PITEA26
 
 
 | Room                  | Price per night |
@@ -59,7 +59,7 @@ The **Hotel Dubrovnik Palace** offers special rates for ESWC attendees.
 Breakfast included. Tourist tax/night: 2.65 EUR not included.
 
 <div style="text-align:center;">
-<a class="btn" href="https://www.adriaticluxuryhotels.com/hotel-dubrovnik-palace/">Book now</a>
+<a class="btn" href="https://book.royaldubrovnik.com/booking.php?company_id=6daf8dab5fad0a4a21198f829b0e223d&partners_access=PITEA26">Book now</a>
 </div>
 
 <br />
@@ -80,3 +80,10 @@ Breakfast included. Tourist tax/night: 2.65 EUR not included.
     
   </figure>
 </div>
+
+## Alternative Accommodations 
+Early booking is highly recommended.
+Please note that the high season in Dubrovnik — particularly in the Old Town — begins in mid-May. Many visitors choose to stay in the Lapad area as a more budget-friendly alternative.
+
+
+* [Hostel Options](https://www.hostelz.com/hostels/Croatia/Dubrovnik)
