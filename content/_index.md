@@ -4,6 +4,8 @@ subtitle: "May 10-14, 2026 | Dubrovnik | Croatia"
 newsNewDays: 14 # mark items from the last 14 days as NEW (default 14)
 
 news:
+  - date: 2026-02-12
+    text: "[List of accepted papers in main tracks](/program/accepted-papers/) is available. Congratulations to the authors!"
   - date: 2026-02-02
     text: "[Industry Track Call for Paper](/calls/industry-track/) has been published!"
   - date: 2026-01-16
