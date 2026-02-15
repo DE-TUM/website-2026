@@ -2,4 +2,4 @@
 title: "Venue and Accommodation"
 ---
 
-**This website is currently being updated. Some content may be temporarily unavailable. Thank you for your patience.**
+**We are confirming the latest details with the conference venue to ensure everyone has a great conference experience.**
