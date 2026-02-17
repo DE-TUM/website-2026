@@ -79,18 +79,13 @@ Registration fees and important dates. **VAT not included** (VAT in Croatia: 25%
 
 ***Academic registration** refers to persons that are affiliated with a University or Research Institute. It does not refer to persons from industry for whom the Standard registration fee applies.
 
+
 <div style="text-align:center;">
 <br />
-<b>Registrations will open soon!</b>
+<br />
+<a class="btn" href="https://eswc.pitea.si/">Register</a>
 </div>
 
-<!--
-<div style="text-align:center;">
-<br />
-<br />
-<a class="btn" href="https://www.tum.de">Register</a>
-</div>
--->
 
 ### Main Conference 
 The Main Conference option includes:
@@ -108,6 +103,21 @@ The Pre-Conference option includes:
 ### Additional Gala Dinner Ticket for an Accompanying Persons
 Additional ticket for **Gala Dinner** (13 May): 90 EUR (VAT included).
 
+### Payment & Invoicing
+
+**Pro forma invoice (optional)**  
+To ensure your registration is processed smoothly, we can issue a pro forma invoice to your company, institute, or university. Please email eswc@pitea.si and include:
+* Selected registration package,
+* Name of participant(s),
+* Full billing details (legal name and address),
+* VAT ID (must be valid in VIES for those eligible paying without VAT).
+
+**Invoicing**  
+Please ensure that the details you enter during registration exactly match the billing details required for your invoice (legal entity name, full address, VAT ID where applicable). Invoices cannot be modified or re-issued after they have been issued, except where required by applicable law.
+
+**Cancellation & Refund Policy**  
+All registration fees are non-refundable. If you cannot attend, you may request a substitution/transfer of your registration to another attendee (subject to approval by the organisers).
+
 ### Attendance and Accommodations
 Check our dedicated page on [travelling and accommodation options](/attending/venue).
 
@@ -118,10 +128,8 @@ For presenters who need an invitation letter, please contact us at [eswc2026-reg
 ### On-site Registrations
 During the conference (10-14 May), the registration desk will be open daily from 8:00 AM to 5:00 PM.
 
-<!--
 <div style="text-align:center;">
 <br />
 <br />
-<a class="btn" href="https://www.tum.de">Register</a>
+<a class="btn" href="https://eswc.pitea.si/">Register</a>
 </div>
--->
