@@ -71,6 +71,8 @@ Contact: [eswc2026-industry@easychair.org](mailto:eswc2026-industry@easychair.or
 ### Proceedings Chair
 {{< committee img="images/people/osborne.png" name="Francesco Osborne" affiliation="KMi, The Open University" country="UK" >}}
 
+### Local Chair
+{{< committee img="images/people/pitea.png" name="Marija Komatar Pitea" affiliation="Pitea d.o.o." country="SVN" >}}
 
 
 ### Acknowledgments 
