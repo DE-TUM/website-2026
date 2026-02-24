@@ -79,6 +79,7 @@ Registration fees and important dates. **VAT not included** (VAT in Croatia: 25%
 
 ***Academic registration** refers to persons that are affiliated with a University or Research Institute. It does not refer to persons from industry for whom the Standard registration fee applies.
 
+For questions about registrations and VAT exemptions, please contact us at [eswc@pitea.si](mailto:eswc@pitea.si).
 
 <div style="text-align:center;">
 <br />
