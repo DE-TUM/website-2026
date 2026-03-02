@@ -43,9 +43,9 @@ Participants with an accepted poster or demonstration must register for the conf
 ## Important Dates (subject to change)
 | Event                               | Date                |
 |-------------------------------------|---------------------|
-| Submission deadline                 | March 03, 2026      |
-| Notification of acceptance          | March 31, 2026      |
-| Camera-ready final version          | April 15, 2026      |
+| Submission deadline                 | March 10, 2026 (extended)      |
+| Notification of acceptance          | April 07, 2026 (extended)     |
+| Camera-ready final version          | April 22, 2026 (extended)    |
 
 All deadlines are 23:59 anywhere on earth (UTC-12).
 

@@ -4,6 +4,8 @@ subtitle: "May 10-14, 2026 | Dubrovnik | Croatia"
 newsNewDays: 14 # mark items from the last 14 days as NEW (default 14)
 
 news:
+  - date: 2026-03-02
+    text: "The submission deadline for [poster and demo papers](/calls/poster-demo/) has been extended!"
   - date: 2026-02-12
     text: "[List of accepted papers in main tracks](/program/accepted-papers/) is available. Congratulations to the authors!"
   - date: 2026-02-02
