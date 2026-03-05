@@ -81,6 +81,12 @@ title: "Accepted Papers"
 * **Document-level Relation Extraction using Reinforcement Learning with Knowledge Graph Feedback**  
   Manzoor Ali, Hamada Zahera, Yasir Mahmood, Hashim Khan, René Speck, Muhammad Saleem and Axel-Cyrille Ngonga Ngomo
 
+* **Proving Soundness of SPARQL Query Results using Selective Disclosure of RDF Datasets and Zero-Knowledge Proofs**  
+  Christoph Braun, Jesse Wright and Tobias Käfer
+
+* **SPARQLing Datalog for Rule-Based Reasoning over Large Knowledge Graphs**  
+  Alex Ivliev, Markus Krötzsch and Maximilian Marx
+
 ## Resources Track
 * **A Linked Open Data Service and Semantic Portal to Study the Assembly Minutes and Prosopography of the League of Nations (1920--1946)**  
   Petri Leskinen, Eero Hyvönen, Alexandre Lionnet, Blandine Blukacz-Louisfert, Pierre-Etienne Bourneuf, Davide Rodogno, Grégoire Mallard and Florian Cafiero
