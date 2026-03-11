@@ -163,6 +163,7 @@ h2 {
     display: inline-block;
     text-align: center;
     margin: 5px;
+    vertical-align: top;
 }
 .keynote-speaker img {
     width: 200px;
@@ -174,6 +175,7 @@ h2 {
     display: flex;
     text-align: justify;
     margin: 5px;
+    align-items: flex-start;
 }
 .keynote-description img {
     width: 200px;
