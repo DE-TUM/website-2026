@@ -3,6 +3,11 @@ title: "Sponsors"
 background: "images/geio-tischler-rjHTWXyhWcE-unsplash.jpg"
 ---
 
+## Gold Sponsor 
+
+{{< figure src="images/logos/metaphacts.png" alt="Metaphacts" caption="Metaphacts" width="200px" >}}
+
+
 
 ## Student Support
 
