@@ -117,7 +117,7 @@ aliases:
 > **Same Data; Different Models (SDDM 2026)**
 
 - Website: [https://the-praxis-initiative.github.io/comparative-ontology-modeling](https://the-praxis-initiative.github.io/comparative-ontology-modeling/)
-- Organizers: Antrea Christou, Cogan Shimizu, Davide Di Pierro, María Poveda-Villalón, Andrea Giovanni Nuzzolese, Anna Sofia Lippolis, Danai Symeonidou and Lylia Abrouk
+- Organizers: Antrea Christou, John Beverly, Cogan Shimizu, Davide Di Pierro, María Poveda-Villalón, Andrea Giovanni Nuzzolese, Anna Sofia Lippolis, Danai Symeonidou and Lylia Abrouk
 - Length: Half-day
 
 ----
