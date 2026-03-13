@@ -85,17 +85,16 @@ thesis at the time of submission to the Ph.D. Symposium.
 outline above.
 
 ## Important Dates (subject to change)
-| Event                               | Date                |
-|-------------------------------------|---------------------|
-| Submission deadline                 | February 13, 2026   |
-| Notification of acceptance          | March 11, 2026      |
-| Revised version to the mentor       | March 25, 2026      |
-| Mentor’s feedback on paper          | April 8, 2026       |
-| Camera-ready final version          | April 22, 2026      |
-| Draft presentation to mentor        | April 29, 2026      |
+| Event                                 | Date              |
+|---------------------------------------|-------------------|
+| Submission deadline                   | February 13, 2026 |
+| Notification of acceptance            | March 13, 2026    |
+| Revised version to the chairs         | March 27, 2026    |
+| Chairs’ feedback on paper             | April 10, 2026    |
+| Camera-ready final version            | April 25, 2026    |
+| Draft presentation to mentor          | April 29, 2026    |
 | Mentor’s feedback on the presentation | May 6, 2026       |
-| Ph.D. Symposium                     | May 11, 2026        |
-
+| Ph.D. Symposium                       | May 11, 2026      |
 
 All deadlines are 23:59 anywhere on earth (UTC-12).
 
