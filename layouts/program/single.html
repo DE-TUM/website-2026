@@ -6,11 +6,13 @@
             {{ .Content }}
         </article>
     </div>
+    {{ if .Params.show_schedule }}
     <section>
         {{ range site.Data.schedule.days }}
             {{ partial "schedule-table.html" . }}
         {{ end }}
     </section>
+    {{ end }}
 </main>
 {{ end }}
 

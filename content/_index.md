@@ -1,11 +1,13 @@
 ---
 title: "23rd European Semantic Web Conference (ESWC)"
 subtitle: "May 10-14, 2026 | Dubrovnik | Croatia"
-newsNewDays: 14 # mark items from the last 14 days as NEW (default 14)
+newsNewDays: 7 # mark items from the last 14 days as NEW (default 14)
 
 news:
+  - date: 2026-03-13
+    text: "The [schedule of the pre-conference days](/program/program-overview/) is out!"
   - date: 2026-03-11
-    text: "Keynote speakers announced! [Check them out!](/program/keynote-speakers/)"
+    text: "[Keynote speakers](/program/keynote-speakers/) announced! Check them out!"
   - date: 2026-03-02
     text: "The submission deadline for [poster and demo papers](/calls/poster-demo/) has been extended!"
   - date: 2026-02-12

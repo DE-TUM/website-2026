@@ -1,5 +1,5 @@
 {{- $schedule := . -}}
-<h3 class="schedule-day-title">Day {{ $schedule.day }} – {{ $schedule.date }}</h3>
+<h2 class="schedule-day-title">Day {{ $schedule.day }} – {{ $schedule.date }}</h2>
 
 <div class="responsive-table-wrapper">
     <table class="table-auto border-collapse w-full schedule-table">
@@ -16,16 +16,48 @@
         {{- $slot := . }}
         <tr>
             <td class="border p-2 font-semibold">{{ $slot }}</td>
-            {{- range site.Data.schedule.locations }}
-            {{- $loc := . }}
+
+            {{- range $i, $loc := site.Data.schedule.locations }}
+
             {{- $entriesForSlot := where $schedule.entries "timeslot" $slot }}
-            {{- $matchingEntries := where $entriesForSlot "location" $loc }}
-            {{- $entry := index $matchingEntries 0 }}
-            <td class="border p-2">
+
+            {{- $entry := "" }}
+            {{- $span := 1 }}
+            {{- $skip := false }}
+
+            {{- range $entriesForSlot }}
+
+            {{- $locs := .locations | default (slice .location) }}
+
+            {{- if in $locs $loc }}
+            {{- if eq (index $locs 0) $loc }}
+            {{- $entry = . }}
+            {{- $span = len $locs }}
+            {{- else }}
+            {{- $skip = true }}
+            {{- end }}
+            {{- end }}
+
+            {{- end }}
+
+            {{- if not $skip }}
+            <td class="border p-2" colspan="{{ $span }}">
                 {{- if $entry }}
+
+                {{- if $entry.tag }}
+                <div class="schedule-tag tag-{{ lower $entry.tag | urlize }}">
+                    {{ $entry.tag }}
+
+                </div>
+                {{- end }}
+
+                <br />
                 <a href="{{ $entry.url }}">{{ $entry.title }}</a>
+
                 {{- end }}
             </td>
+            {{- end }}
+
             {{- end }}
         </tr>
         {{- end }}

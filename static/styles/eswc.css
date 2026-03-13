@@ -268,3 +268,19 @@ a.btn:hover {
 @media (max-width: 900px){
     .two-cols{ grid-template-columns: 1fr; }
 }
+
+.schedule-tag {
+    margin-top: 4px;
+    font-size: 0.75rem;
+    padding: 2px 6px;
+    border-radius: 4px;
+    display: inline-block;
+    color: white;
+}
+
+.tag-workshop { background: #2563eb; }
+.tag-tutorial { background: #9333ea; }
+.tag-phd-symposium { background: #db2777; }
+.tag-coffee-break { background: #16a34a; }
+.tag-lunch-break { background: #16a34a; }
+.tag-panel { background: #ea580c; }
