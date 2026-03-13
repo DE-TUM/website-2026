@@ -21,11 +21,12 @@ aliases:
 - Length: Full-day 
 
 ----
-> **Semantic Technology Implementation for Industrial Enterprises**
+> ~~**Semantic Technology Implementation for Industrial Enterprises**~~
 
-- Website: [https://nlp-tlp.org/eswc-workshop-enterprise-swts](https://nlp-tlp.org/eswc-workshop-enterprise-swts/)
-- Organizers: Caitlin Woods and Melinda Hodkiewicz
-- Length: Half-day 
+- ~~Website: [https://nlp-tlp.org/eswc-workshop-enterprise-swts](https://nlp-tlp.org/eswc-workshop-enterprise-swts/)~~
+- ~~Organizers: Caitlin Woods and Melinda Hodkiewicz~~
+- ~~Length: Half-day~~ 
+- Status: Cancelled
 
 ----
 > **SDS 2026: The Fourth International Workshop on Semantics in Dataspaces**
