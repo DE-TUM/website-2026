@@ -143,11 +143,12 @@ aliases:
 - Length: Half-day
 
 ----
-> **Object-Oriented Linked Data - Connecting Conventional Software Engineering with Semantic Web Principles**
+> ~~**Object-Oriented Linked Data - Connecting Conventional Software Engineering with Semantic Web Principles**~~
 
-- Website: [https://opensemantic.world/wiki/Item:OSW71ac62c3f919485f96483ad8dd302dbf](https://opensemantic.world/wiki/Item:OSW71ac62c3f919485f96483ad8dd302dbf)
-- Organizers: Simon Stier, Lukas Gold and Andreas Räder
-- Length: Half-day
+- ~~Website: [https://opensemantic.world/wiki/Item:OSW71ac62c3f919485f96483ad8dd302dbf](https://opensemantic.world/wiki/Item:OSW71ac62c3f919485f96483ad8dd302dbf)~~
+- ~~Organizers: Simon Stier, Lukas Gold and Andreas Räder~~
+- ~~Length: Half-day~~
+- Status: Cancelled
 
 ----
 > **Never-Ending Learning for the Semantic Web: From Knowledge Graphs to Self-Improving LLM-Based Agent Systems**
