@@ -5,15 +5,34 @@ background: "images/geio-tischler-rjHTWXyhWcE-unsplash.jpg"
 
 ## Gold Sponsors 
 
-{{< figure src="images/logos/metaphacts.png" alt="Metaphacts" caption="Metaphacts" width="250px" >}}
+{{< figure src="images/logos/metaphacts.png" alt="metaphacts" caption="metaphacts" width="320px" >}}
 
-
+----
 
 ## Student Support
 
-{{< figure src="images/logos/jai.jpg" alt="Journal of Artificial Intelligence" caption="Journal of Artificial Intelligence" width="180px" >}}
+{{< figure src="images/logos/jai.jpg" alt="Journal of Artificial Intelligence" caption="Journal of Artificial Intelligence" width="190px" >}}
 
+----
+
+## Best Paper Award
+
+{{< figure src="images/logos/springer.png" alt="Springer" caption="Springer" width="280px" >}}
+
+----
+
+## ESWC Dieter Fensel Visionary Award
+
+{{< figure src="images/logos/graphwise.svg" alt="Graphwise" caption="Graphwise" width="450px" >}}
+
+----
 
 ## Additional Sponsors
 
 {{< figure src="images/logos/digitalscience.png" alt="Digital Science" caption="Digital Science" width="250px" >}}
+
+----
+
+## Contributors
+
+{{< figure src="images/logos/videolectures.png" alt="videolectures.net" caption="videolectures.net" width="350px" >}}
