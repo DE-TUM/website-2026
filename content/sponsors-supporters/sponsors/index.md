@@ -3,9 +3,13 @@ title: "Sponsors"
 background: "images/geio-tischler-rjHTWXyhWcE-unsplash.jpg"
 ---
 
-## Gold Sponsors 
+## Gold Sponsors
 
-{{< figure src="images/logos/metaphacts.png" alt="metaphacts" caption="metaphacts" width="320px" >}}
+    
+{{% columns %}}
+{{% figure src="images/logos/metaphacts.png" alt="metaphacts" caption="metaphacts" width="350px" %}}  
+{{% figure src="images/logos/graphwise.svg" alt="Graphwise" caption="Graphwise. Sponsor of the ESWC Dieter Fensel Visionary Award" width="450px" %}}
+{{% /columns %}}
 
 ----
 
@@ -21,11 +25,6 @@ background: "images/geio-tischler-rjHTWXyhWcE-unsplash.jpg"
 
 ----
 
-## ESWC Dieter Fensel Visionary Award
-
-{{< figure src="images/logos/graphwise.svg" alt="Graphwise" caption="Graphwise" width="450px" >}}
-
-----
 
 ## Additional Sponsors
 

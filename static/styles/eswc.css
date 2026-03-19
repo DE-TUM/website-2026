@@ -262,7 +262,15 @@ a.btn:hover {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 1.25rem;
-    align-items: start;
+    align-items: bottom;
+}
+
+.two-cols > * {
+  flex: 1;             /* each child takes equal width */
+}
+
+.two-cols figure {
+  text-align: center;
 }
 
 @media (max-width: 900px){
