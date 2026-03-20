@@ -48,7 +48,7 @@ Contact: [eswc2026-industry@easychair.org](mailto:eswc2026-industry@easychair.or
 ### Project Networking Chairs
 {{< committee img="images/people/esteves.png" name="Beatriz Esteves" affiliation="Ghent University - IMEC" country="Belgium" >}}
 {{< committee img="images/people/presutti.jpg" name="Valentina Presutti" affiliation="University of Bologna" country="Italy" >}}
-
+Contact: [eswc2026-networking@easychair.org](mailto:eswc2026-networking@easychair.org)
 
 
 ### Student Mentoring Chair
