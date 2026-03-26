@@ -62,11 +62,11 @@ Reviews will be single and anonymous. The review criteria include the following:
 
 ## Important Dates
 
-| Event                               | Date                |
-|-------------------------------------|---------------------|
-| Submission deadline                 | March 25, 2026      |
-| Notification of acceptance          | April 10, 2026      |
-| Camera-ready final version          | April 24, 2026      |
+| Event                               | Date                                         |
+|-------------------------------------|----------------------------------------------|
+| Submission deadline                 | ~~March 25, 2026~~ March 31, 2026 (extended) |
+| Notification of acceptance          | April 10, 2026                               |
+| Camera-ready final version          | April 24, 2026                               |
 
 All deadlines are 23:59 anywhere on earth (UTC-12).
 
