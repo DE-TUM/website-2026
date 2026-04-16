@@ -292,3 +292,8 @@ a.btn:hover {
 .tag-coffee-break { background: #16a34a; }
 .tag-lunch-break { background: #16a34a; }
 .tag-panel { background: #ea580c; }
+
+.tag-research { background: #9333ea; }
+.tag-resource { background: #0891b2; }
+.tag-in-use { background: #db2777; }
+.tag-industry { background: #ea580c; }
