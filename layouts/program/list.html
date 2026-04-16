@@ -12,13 +12,16 @@
         {{ end }}
     </ul>
 
+    {{ if .Params.show_schedule }}
     <section class="container-full">
         <div class="container-full">
             {{ range site.Data.schedule.days }}
             {{ partial "schedule-table.html" . }}
             {{ end }}
+
         </div>
     </section>
+    {{ end }}
 </main>
 {{ end }}
 
