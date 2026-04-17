@@ -2,7 +2,7 @@
 title: "Keynote Speakers"
 ---
 
-{{< keynote img="images/people/vidal.jpg" name="Maria-Esther Vidal" affiliation="University of Oxford" country="UK" >}}
+{{< keynote img="images/people/vidal.jpg" name="Maria-Esther Vidal" affiliation="Leibniz University of Hannover, TIB" country="Germany" >}}
 {{< keynote img="images/people/augenstein.jpg" name="Isabelle Augenstein" affiliation="University of Copenhagen" country="Denmark" >}}
 {{< keynote img="images/people/kiryakov.jpeg" name="Atanas Kiryakov" affiliation="Graphwise" country="Bulgary" >}}
 
