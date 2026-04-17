@@ -91,7 +91,7 @@ outline above.
 | Notification of acceptance            | March 13, 2026    |
 | Revised version to the chairs         | March 27, 2026    |
 | Chairs’ feedback on paper             | April 10, 2026    |
-| Camera-ready final version            | April 25, 2026    |
+| Camera-ready final version            | April 30, 2026    |
 | Draft presentation to mentor          | April 29, 2026    |
 | Mentor’s feedback on the presentation | May 6, 2026       |
 | Ph.D. Symposium                       | May 11, 2026      |
