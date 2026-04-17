@@ -1,5 +1,5 @@
 ---
-title: "Accepted Papers"
+title: "Accepted Research, Resource, and In-Use Papers"
 ---
 
 ## Research Track
@@ -225,4 +225,3 @@ title: "Accepted Papers"
 
 * **Evaluating Knowledge Graph Embeddings**   
   Antrea Christou
-
