@@ -2,16 +2,16 @@
 title: "Keynote Speakers"
 ---
 
-{{< keynote img="images/people/horrocks.png" name="Ian Horrocks" affiliation="University of Oxford" country="UK" >}}
+{{< keynote img="images/people/vidal.jpg" name="Maria-Esther Vidal" affiliation="University of Oxford" country="UK" >}}
 {{< keynote img="images/people/augenstein.jpg" name="Isabelle Augenstein" affiliation="University of Copenhagen" country="Denmark" >}}
 {{< keynote img="images/people/kiryakov.jpeg" name="Atanas Kiryakov" affiliation="Graphwise" country="Bulgary" >}}
 
 ----- 
 # Main Conference Schedule
 
-## Day 1 (12 May): Prof. Ian Horrocks
+## Day 1 (12 May): Prof. Dr. Maria-Esther Vidal
 
-{{< keynote_description img="images/people/horrocks.png" name="Ian Horrocks" affiliation="University of Oxford" country="UK" bio="My research interests include knowledge representation, ontologies and ontology languages, modal and description logics, automated reasoning, implementation and optimisation of reasoning systems, and applications in areas such as e-Science and the Semantic Web. Source: https://www.cs.ox.ac.uk/people/ian.horrocks/">}}
+{{< keynote_description img="images/people/vidal.jpg" name="Maria-Esther Vidal" affiliation="Leibniz University of Hannover, TIB" country="UK" bio="I am a Professor of Computer Science at Leibniz University Hannover and Head of the Scientific Data Management Group at the TIB – Leibniz Information Centre for Science and Technology. I am also a member of the L3S Research Center and the European Laboratory for Learning and Intelligent Systems (ELLIS). My research focuses on research data management, semantic data management, knowledge graphs, and neuro-symbolic artificial intelligence, with the aim of enabling knowledge-driven, explainable AI for scientific discovery and data-driven medicine. I have led numerous EU and nationally funded projects on trustworthy AI and semantic data infrastructures. My work advances Knowledge Graph Ecosystems and has been applied to biomedical knowledge graphs addressing societally critical conditions such as Long COVID, lung and breast cancer, as well as to industrial data integration in large-scale engineering environments. I have received distinctions from the Leibniz Association, including the Leibniz Best Minds Professorship and the Stifterverband Science Award for Responsible Research.">}}
 
 ## Day 2 (13 May): Prof. Isabelle Augenstein
 
