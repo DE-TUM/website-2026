@@ -163,6 +163,14 @@ days:
         title: "Trust, Autonomy, and Accountability in PKG-Based Agentic AI (TAAPAAI) 2nd Edition"
         url: "https://taapaai.github.io"
         tag: "Workshop"
+      - timeslot: "09:00 – 10:30"
+        location: Room 7
+        title: "BiKE and Text2SPARQL"
+        tag: "Challenge"
+      - timeslot: "11:00 – 12:30"
+        location: Room 7
+        title: "BiKE and Text2SPARQL"
+        tag: "Challenge"
   - date: "May 11th"
     day: 2
     entries:
