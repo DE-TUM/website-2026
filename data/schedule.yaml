@@ -166,10 +166,12 @@ days:
       - timeslot: "09:00 – 10:30"
         location: Room 7
         title: "BiKE and Text2SPARQL"
+        url: "https://aiisc.ai/text2kg2026/"
         tag: "Challenge"
       - timeslot: "11:00 – 12:30"
         location: Room 7
         title: "BiKE and Text2SPARQL"
+        url: "https://aiisc.ai/text2kg2026/"
         tag: "Challenge"
   - date: "May 11th"
     day: 2
