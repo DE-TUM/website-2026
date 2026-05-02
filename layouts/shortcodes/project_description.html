@@ -1,0 +1,9 @@
+<div class="project-description">
+    <img src="{{ (.Get "img") | relURL }}" alt="{{ .Get "name" }}" />
+    <div class="project-description-text">
+        <p></p>
+        <p><b>Description:</b> {{ .Get "desc" }}</p><br />
+        <p><b>Presenters:</b> {{ .Get "presenters" }}</p><br />
+        <p><b>Website:</b> <a href={{ .Get "url" }}>{{ .Get "url" }}</a></p>
+    </div>
+</div>
