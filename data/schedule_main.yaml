@@ -386,8 +386,8 @@ days:
         tag: "Research" 
       - timeslot: "12:00 – 12:20"
         location: "Princess 2/4/6"
-        title: "Bounded Descriptions for Knowledge Graph Traversal"
-        authors: "Language Models by Daniel Henselmann and Andreas Harth"
+        title: "Bounded Descriptions for Knowledge Graph Traversal by Language Models"
+        authors: "Daniel Henselmann and Andreas Harth"
         tag: "Research" 
       - timeslot: "12:20 – 14:00"
         locations: ["Princess Hall", "Princess 2/4/6"]
