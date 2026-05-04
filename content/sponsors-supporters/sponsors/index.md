@@ -15,7 +15,7 @@ background: "images/geio-tischler-rjHTWXyhWcE-unsplash.jpg"
 
 ## Bronze Sponsors
 
-{{< figure src="images/logos/eccenca.svg" alt="Eccenca" caption="eccenca" width="400px" >}}
+{{< figure src="images/logos/eccenca.svg" alt="Eccenca" caption="eccenca" width="450px" >}}
 
 ----
 
