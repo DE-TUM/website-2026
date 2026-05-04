@@ -2,6 +2,10 @@
 title: "Accepted Research, Resource, and In-Use Papers"
 ---
 
+## Proceedings 
+* [The Semantic Web – 23rd European Semantic Web Conference, ESWC 2026, Dubrovnik, Croatia, May 10–14, 2026, Proceedings, Part I](https://link.springer.com/book/9783032251558)
+* [The Semantic Web – 23rd European Semantic Web Conference, ESWC 2026, Dubrovnik, Croatia, May 10–14, 2026, Proceedings, Part II](https://link.springer.com/book/9783032251589)
+
 ## Research Track
 * **Ontology Population Using LLMs: Which Factors Matter?**  
   Upal Bhattacharya, Maaike de Boer and Sergey Sosnovsky
