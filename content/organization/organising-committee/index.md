@@ -78,6 +78,7 @@ Contact: [eswc2026-networking@easychair.org](mailto:eswc2026-networking@easychai
 
 ### Local Chair
 {{< committee img="images/people/pitea.png" name="Marija Komatar Pitea" affiliation="Pitea d.o.o." country="SVN" >}}
+{{< committee img="images/people/grobelnik.png" name="Marko Grobelnik" affiliation="Jozef Stefan Institute" country="SVN" >}}
 
 
 ### Acknowledgments 
