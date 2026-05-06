@@ -92,85 +92,85 @@ title: "Accepted Research, Resource, and In-Use Papers"
   Alex Ivliev, Markus Krötzsch and Maximilian Marx
 
 ## Resources Track
-* **A Linked Open Data Service and Semantic Portal to Study the Assembly Minutes and Prosopography of the League of Nations (1920--1946)**  
+* **A Linked Open Data Service and Semantic Portal to Study the Assembly Minutes and Prosopography of the League of Nations (1920--1946)** [(PDF)](https://drive.google.com/file/d/1zKPhuIBE8hpwUcc0Rmp4v7UIRM2Qkse2/view?usp=sharing)    
   Petri Leskinen, Eero Hyvönen, Alexandre Lionnet, Blandine Blukacz-Louisfert, Pierre-Etienne Bourneuf, Davide Rodogno, Grégoire Mallard and Florian Cafiero
 
-* **OntoPFAS: an Ontology for the Forever Chemicals**  
+* **OntoPFAS: an Ontology for the Forever Chemicals** [(PDF)](https://drive.google.com/file/d/1FtmMij2o-dwE35IVEsCABhdd0B8ciNTA/view?usp=sharing)    
   Davide Di Pierro, Lylia Abrouk, Alexis Guyot, Danai Symeonidou, Pierre Labadie and Benjamin Lysaniuk
 
-* **NeuroSymbolic Stream Reasoning with Kolibrie**  
+* **NeuroSymbolic Stream Reasoning with Kolibrie** [(PDF)](https://drive.google.com/file/d/1xAkaznD7tqVA5GzIB1ss23JeU6uGYsdF/view?usp=sharing)    
   Volodymyr Kadzhaia and Pieter Bonte
 
-* **ArtKB: A Multimodal Art Knowledge Base for Cultural Heritage**  
+* **ArtKB: A Multimodal Art Knowledge Base for Cultural Heritage** [(PDF)](https://drive.google.com/file/d/1qFDvagiTvTk1WOdXrcpin6aVKzFbKpou/view?usp=sharing)    
   Giacomo Blanco, Ruben Peeters, Giuseppe Rizzo, Anastasia Dimou, Xuemin Duan, Tommaso Monopoli and Federico D'Asaro
 
-* **Mapping Change: A Temporal and Semantic Knowledge Base of Scottish Gazetteers**  
+* **Mapping Change: A Temporal and Semantic Knowledge Base of Scottish Gazetteers** [(PDF)](https://drive.google.com/file/d/1hBpzGfmgDpPBxG4ab0G2bHzM6VRVcdmD/view?usp=sharing)    
   Lilin Yu, Angelo A. Salatino and Rosa Filgueira
 
-* **CUBE-MT: A Cultural Benchmark for Multimodal Knowledge Graph Construction with Generative Models**  
+* **CUBE-MT: A Cultural Benchmark for Multimodal Knowledge Graph Construction with Generative Models** [(PDF)](https://drive.google.com/file/d/1ee4Ub87FMz_eeRKflb66ZYIpYnZGepM4/view?usp=sharing)    
   Albert Meroño-Peñuela, Xin Fan Guo, Nitisha Jain, Filip Birčanin, Timothy Neate, Thomas van Erven, Sándor Daranyi and Nasrine Olson
 
-* **EthereumKG: Building a Knowledge Graph of the Ethereum Blockchain**  
+* **EthereumKG: Building a Knowledge Graph of the Ethereum Blockchain** [(PDF)](https://drive.google.com/file/d/1TkmOrLFBcUnikwEEgGm2SDfkASIcVq3U/view?usp=sharing)    
   Juan Cano de Benito, Andrea Cimmino Arriaga, Sven Hertling, Heiko Paulheim and Raúl García-Castro
 
-* **CANDI - A Semantic Framework for CAN bus Data Modeling and System Integration**  
+* **CANDI - A Semantic Framework for CAN bus Data Modeling and System Integration** [(PDF)](https://drive.google.com/file/d/1nfXU3SSyylAaKhTRcI768Mo5JnttjXzK/view?usp=sharing)    
   Pavle Ivanovic, Simon Burbach, Oliver Niggemann and Maria Maleshkova
 
-* **CR-TKGQA: A Temporal Knowledge Graph Question Answering Dataset Involving Complex Reasoning**  
+* **CR-TKGQA: A Temporal Knowledge Graph Question Answering Dataset Involving Complex Reasoning** [(PDF)](https://drive.google.com/file/d/1JfcVCvLBLXHnk_G15pKN8IQ18M_OgTio/view?usp=sharing)    
   Yuheng Bao, Dingkun Xu, Longfei E, Jiayu Shen, Gong Cheng and Yuzhong Qu
 
-* **SemTS: Ontology and Vocabularies for the Semantic Categorization of Time Series Knowledge**  
+* **SemTS: Ontology and Vocabularies for the Semantic Categorization of Time Series Knowledge** [(PDF)](https://drive.google.com/file/d/1pFtICg_D-YBRnslGpxjGUB4L1m2DhHjD/view?usp=sharing)    
   Alexander Graß, Rohit Arunrao Deshmukh, Christoph Lange, Diego Collarana, Christian Beecks and Stefan Decker
 
-* **Tool4Boxology: A Semantic Toolbox for Constructing and Analyzing Neuro-Symbolic Architectures**  
+* **Tool4Boxology: A Semantic Toolbox for Constructing and Analyzing Neuro-Symbolic Architectures** [(PDF)](https://drive.google.com/file/d/1yO0SSqpO6UBVpXeimvwk9_DRfSM4qCL_/view?usp=sharing)    
   Johannes Bendler, Yashrajsinh Chudasama, Mahsa Forghani, Enrique Iglesias, Disha Purohit, Annette ten Teije, Frank van Harmelen and Maria-Esther Vidal
 
-* **Bench4KE: Benchmarking Automated Competency Question Generation**  
+* **Bench4KE: Benchmarking Automated Competency Question Generation** [(PDF)](https://drive.google.com/file/d/1bxeSQmMzykK_pxGsnm1cYQ8PYYCUNrrJ/view?usp=sharing)    
   Anna Sofia Lippolis, Minh Davide Ragagni, Paolo Ciancarini, Andrea Giovanni Nuzzolese and Valentina Presutti
 
-* **Traqula: Providing a Foundation for The Evolving SPARQL Ecosystem Through Modular Query Parsing, Transformation, and Generation**  
+* **Traqula: Providing a Foundation for The Evolving SPARQL Ecosystem Through Modular Query Parsing, Transformation, and Generation** [(PDF)](https://drive.google.com/file/d/1F8ovy5DgMuk4Ms_iVkarD_khsBxsKq_m/view?usp=sharing)    
   Jitse De Smet and Ruben Taelman
 
-* **SIDEKICK: A semantically integrated resource for drug effects, indications, and contraindications**  
+* **SIDEKICK: A semantically integrated resource for drug effects, indications, and contraindications** [(PDF)](https://drive.google.com/file/d/1f_dm9kH_5gC-UsSGm-EE4TnYYdHoe99P/view?usp=sharing)    
   Mohammad Ashhad, Olga Mashkova, Ricardo Henao and Robert Hoehndorf
 
-* **HERTy-Wiki: A Benchmark for Hierarchical Entity Reasoning and Typing**  
+* **HERTy-Wiki: A Benchmark for Hierarchical Entity Reasoning and Typing** [(PDF)](https://drive.google.com/file/d/1vS10J49fKMo22BlA9QB_vFo6FMLiTC70/view?usp=sharing)      
   Nicole Obretincheva, Elena Simperl and Helen Yannakoudakis
 
-* **AgentO: An Ontology for Modeling Agentic AI Systems**  
+* **AgentO: An Ontology for Modeling Agentic AI Systems** [(PDF)](https://drive.google.com/file/d/1WrMSiXR-COZHrAKCEN6nE1M5QUB98gim/view?usp=sharing)    
   Kabul Kurniawan, Elmar Kiesling, Andreas Ekelhart and Fajar Ekaputra
 
-* **BOLD: A Simulation Framework for Dynamic Linked Data Environments and a Benchmark for Linked Data User Agents**  
+* **BOLD: A Simulation Framework for Dynamic Linked Data Environments and a Benchmark for Linked Data User Agents** [(PDF)](https://drive.google.com/file/d/10fCnwdMaHGL11hsW0pIlAvGWPz69bnIP/view?usp=sharing)    
   Tobias Käfer, Victor Charpenay and Andreas Harth
 
 ## In-Use Track
-* **Energy Domain Ontology Matching with Large Language Model**  
+* **Energy Domain Ontology Matching with Large Language Model** [(PDF)](https://drive.google.com/file/d/1wEtrzrlHrawy-7aJM9hU-TtAWY4hvLdW/view?usp=sharing)    
   Zhiyu Pan, Hanyang Li and Antonello Monti
 
-* **Context-Aware Visual Multi-Turn Conversation Generation from Wikipedia and Wikidata**  
+* **Context-Aware Visual Multi-Turn Conversation Generation from Wikipedia and Wikidata** [(PDF)](https://drive.google.com/file/d/1kEalmeFSeCO26xEHFSpU8fbLUzLfe867/view?usp=sharing)    
   Basel Shbita, Pengyuan Li and Anna Lisa Gentile
 
-* **A Wikidata-based Workflow for Entity Reconciliation Strategies Evaluation: A Study on Early Modern Polish Personal Names**  
+* **A Wikidata-based Workflow for Entity Reconciliation Strategies Evaluation: A Study on Early Modern Polish Personal Names** [(PDF)](https://drive.google.com/file/d/1qHw1w8XS1kb2fipM8Lm_N0n6yTLTyx7r/view?usp=sharing)    
   Luiz Do Valle Miranda, Maciej Mozolewski, Krzysztof Kutt and Grzegorz J. Nalepa
 
-* **LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain**  
+* **LLM-Enhanced Semantic Data Integration of Electronic Component Qualifications in the Aerospace Domain** [(PDF)](https://drive.google.com/file/d/1dwBtxqIIpnpBiiqaFAjGTV4Im8oO7DVW/view?usp=sharing)    
   Antonio De Santis, Marco Balduini, Matteo Belcao, Andrea Proia, Marco Brambilla and Emanuele Della Valle
 
-* **Towards Context-Aware Search: Dynamic Facet Generation in Digital Libraries**  
+* **Towards Context-Aware Search: Dynamic Facet Generation in Digital Libraries** [(PDF)](https://drive.google.com/file/d/1fI3sHlafPWiTIMLYljF0Uzp7ART_Okri/view?usp=sharing)    
   Mutahira Khalid, Mohamad Yaser Jaradeh, Sören Auer and Markus Stocker
 
-* **An Ecosystem of Knowledge Graph-based Web Services for Greenhouse Gas Assessment**  
+* **An Ecosystem of Knowledge Graph-based Web Services for Greenhouse Gas Assessment** [(PDF)](https://drive.google.com/file/d/1xmALsqmmCKMtiQdXW0PYW-tJEjriCuau/view?usp=sharing)    
   Ekaterina Aymon, Ivan Kostanjevec, Jan Grau, Alexander Kirsten, Bejnamin Pocklington, Alessandro Giugno, Daniel Lachat, Kimberly Garcia, Didier Beloin-St-Pierre and Jean-Paul Calbimonte
 
-* **VRTI Knowledge Graph Explorer: Adoption, Use and Impact**  
+* **VRTI Knowledge Graph Explorer: Adoption, Use and Impact** [(PDF)](https://drive.google.com/file/d/1QWdqOsZhz603cmGhmK2OV_bLWcotvHmZ/view?usp=sharing)      
   Alex Randles, Peter Crooks, Lynn Kilgallon, Lucy McKenna and Declan O'Sullivan
 
-* **A Graph-based RAG system for Enhanced Information Gathering in Local Newsrooms**  
+* **A Graph-based RAG system for Enhanced Information Gathering in Local Newsrooms** [(PDF)](https://drive.google.com/file/d/1RqDLrBSW0UuMt0zp1Z3tBlyaYekCjCeM/view?usp=sharing)    
   Reshmi Pillai, Antske Fokkens and Wouter van Atteveldt
 
-* **Knowledge-Enhanced Multimodal Retrieval over Cultural Heritage Knowledge Graphs**  
+* **Knowledge-Enhanced Multimodal Retrieval over Cultural Heritage Knowledge Graphs** [(PDF)](https://drive.google.com/file/d/1albw7fqtzkCOjWnBi9MZKP3rX8esftvU/view?usp=sharing)    
   Xuemin Duan, Federico D'Asaro, Ruben Peeters, Giacomo Blanco, Tommaso Monopoli, Giuseppe Rizzo and Anastasia Dimou
 
-* **Towards a Symbolic Representation of the MEMS Development Domain**  
+* **Towards a Symbolic Representation of the MEMS Development Domain** [(PDF)](https://drive.google.com/file/d/1mvQP-KDwXKHeyU63WmeRySTmzO_sbtQC/view?usp=sharing)    
   Florian Diehl, Ivan Marevic, Irlan Grangel-González, Simon Blattner and Maria-Esther Vidal
 
