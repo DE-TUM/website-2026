@@ -7,88 +7,88 @@ title: "Accepted Research, Resource, and In-Use Papers"
 * [The Semantic Web – 23rd European Semantic Web Conference, ESWC 2026, Dubrovnik, Croatia, May 10–14, 2026, Proceedings, Part II](https://link.springer.com/book/9783032251589)
 
 ## Research Track
-* **Ontology Population Using LLMs: Which Factors Matter?**  
+* **Ontology Population Using LLMs: Which Factors Matter?** [(PDF)](https://drive.google.com/file/d/1GdPqhiiWWwskV6LRzkSWOEh8hpuMRwEo/view?usp=sharing)    
   Upal Bhattacharya, Maaike de Boer and Sergey Sosnovsky
 
-* **Evaluating Knowledge Graph Construction from Text Without Supervision**  
+* **Evaluating Knowledge Graph Construction from Text Without Supervision** [(PDF)](https://drive.google.com/file/d/1O139AZ9FUdVBlvRUErFIo8k1OtQ6neV4/view?usp=sharing)    
   Vicente Lermanda, Maximiliano Ojeda and Juan L. Reutter
 
-* **SQA: SPARQL Query Annotating with Question-Answer Pairs**  
+* **SQA: SPARQL Query Annotating with Question-Answer Pairs** [(PDF)](https://drive.google.com/file/d/1PLhnKbw6yTmJe2-XiWuKDDLDT5vRRCjl/view?usp=sharing)    
   Yuheng Bao, Wenhao Zhou, Xuan Wu, Wei Hu, Dingkun Xu, Mingjia Qian and Yuzhong Qu
 
-* **A Comparative Study of Competency Question Elicitation Methods from Ontology Requirements**  
+* **A Comparative Study of Competency Question Elicitation Methods from Ontology Requirements** [(PDF)](https://drive.google.com/file/d/19ga1FWiCPma0GBp89zbuteCp9EkFMd51/view?usp=sharing)    
   Reham Alharbi, Valentina Tamma, Terry Payne and Jacopo de Berardinis
 
-* **Are a Thousand Words Better Than a Single Picture? Beyond Images – A Framework for Multi-Modal Knowledge Graph Dataset Enrichment**  
+* **Are a Thousand Words Better Than a Single Picture? Beyond Images – A Framework for Multi-Modal Knowledge Graph Dataset Enrichment** [(PDF)](https://drive.google.com/file/d/1bxxKFCKXlFkEF65MLGyrQ3Gp5v0X3wmH/view?usp=sharing)    
   Pengyu Zhang, Klim Zaporojets, Jie Liu, Jia-Hong Huang and Paul Groth
 
-* **Explaining Scientific Hypotheses in Drug Development with Knowledge Graphs**  
+* **Explaining Scientific Hypotheses in Drug Development with Knowledge Graphs** [(PDF)](https://drive.google.com/file/d/1YuB--xPlLHbiQXWBkUiJzXo4lrGW0Mda/view?usp=sharing)    
   Susana Nunes and Catia Pesquita
 
-* **Ontology-Mediated Framework for Generating Answerable Questions and Feedback from Ontologies**  
+* **Ontology-Mediated Framework for Generating Answerable Questions and Feedback from Ontologies** [(PDF)](https://drive.google.com/file/d/1FgkRdxRIIzAC26dkE2SKwzMZuuXPnz8G/view?usp=sharing)      
   Toky Hajatiana Raboanary and C. Maria Keet
 
-* **Federated Personal Knowledge Graph Completion with Lightweight Large Language Models for Personalized Recommendations**  
+* **Federated Personal Knowledge Graph Completion with Lightweight Large Language Models for Personalized Recommendations** [(PDF)](https://drive.google.com/file/d/1GzlXu7Yaxo0WNu792-oEx0ECX4u6F3gp/view?usp=sharing)    
   Fernando Spadea and Oshani Seneviratne
 
-* **CONEL: Contrastive Neural Link Discovery Leveraging Literal Similarities**  
+* **CONEL: Contrastive Neural Link Discovery Leveraging Literal Similarities** [(PDF)](https://drive.google.com/file/d/17ZiwrDCu2XBClSgLEh7mRx7KvHnFeKC1/view?usp=sharing)    
   Alexander Becker, Axel-Cyrille Ngonga Ngomo and Mohamed Ahmed Sherif
 
-* **TIM: Tiered Iterative Knowledge Graph Matching**  
+* **TIM: Tiered Iterative Knowledge Graph Matching** [(PDF)](https://drive.google.com/file/d/19PD_5sxKzB6id6M25x2wiH5GMVhT1524/view?usp=sharing)    
   Alexander Becker, Axel-Cyrille Ngonga Ngomo and Mohamed Ahmed Sherif
 
-* **Link Prediction or Perdition: the Seeds of Instability in Knowledge Graph Embeddings**  
+* **Link Prediction or Perdition: the Seeds of Instability in Knowledge Graph Embeddings** [(PDF)](https://drive.google.com/file/d/1phYO4tBZbEIPgsI40YxaUA76Bbx5nzhQ/view?usp=sharing)    
   Guillaume Méroué, Fabien Gandon and Pierre Monnin
 
-* **From RDF Graph Validation to RDF Dataset Validation with SHACL-DS**  
+* **From RDF Graph Validation to RDF Dataset Validation with SHACL-DS** [(PDF)](https://drive.google.com/file/d/11LnkAkWkIanUZntigqkqhuKFMvpAgbFS/view?usp=sharing)    
   Davan Chiem Dao and Christophe Debruyne
 
-* **Interpretable Context-Aware Models Improve Expert Validation in Ontology Matching**  
+* **Interpretable Context-Aware Models Improve Expert Validation in Ontology Matching** [(PDF)](https://drive.google.com/file/d/1GIF-lyb4xz0sW7WoM5CQC659rV_9xwAk/view?usp=sharing)    
   Pedro Giesteira Cotovio, Susana Nunes, Ernesto Jiménez-Ruiz and Catia Pesquita
 
-* **Fully Geometric Multi-Hop Reasoning on Knowledge Graphs With Transitive Relations**  
+* **Fully Geometric Multi-Hop Reasoning on Knowledge Graphs With Transitive Relations** [(PDF)](https://drive.google.com/file/d/1b8p7naxPHmgd0VaO8WrouH0jkNlM2UWK/view?usp=sharing)  
   Fernando Zhapa-Camacho and Robert Hoehndorf
 
-* **Structure is the Signal: Graph Encodings and GNNs for Constraint Repair in Collaborative Knowledge Graphs**  
+* **Structure is the Signal: Graph Encodings and GNNs for Constraint Repair in Collaborative Knowledge Graphs** [(PDF)](https://drive.google.com/file/d/116h_ymK4KDogKGJPkmvzElv-D5_ldDpL/view?usp=sharing)  
   Miguel Vázquez, Kevin Innerebner, Alexander Prock, Günter Klambauer, Elisabeth Lex, Johannes Schimunek and Axel Polleres
 
-* **ODRL Policy Comparison by Normalisation**  
+* **ODRL Policy Comparison by Normalisation** [(PDF)](https://drive.google.com/file/d/1YkW11KvB3qaPHmi9BrJD3NgE75YiAMEQ/view?usp=sharing)    
   Jaime Osvaldo Salas Trejo, Paolo Pareti and George Konstantinidis
 
-* **Integrating Meta-Features with Knowledge Graph Embeddings for Meta-Learning**  
+* **Integrating Meta-Features with Knowledge Graph Embeddings for Meta-Learning** [(PDF)](https://drive.google.com/file/d/1onxHizuVM2InstyXIG1GEfLRf9q_ehgk/view?usp=sharing)  
   Antonis Klironomos, Ioannis Dasoulas, Mohamed H. Gad-Elrab, Anastasia Dimou, Heiko Paulheim, Evgeny Kharlamov and Francesco Periti
 
-* **Parameter Efficient Continual Automated Knowledge Graph Completion**  
+* **Parameter Efficient Continual Automated Knowledge Graph Completion** [(PDF)](https://drive.google.com/file/d/1dkZzFv4dWIzW3PsyBLKioa0H7n8UsTyM/view?usp=sharing)    
   Janna Omeliyanenko, Andreas Hotho and Daniel Schlör
 
-* **Bounded Descriptions for Knowledge Graph Traversal by Language Models**  
+* **Bounded Descriptions for Knowledge Graph Traversal by Language Models** [(PDF)](https://drive.google.com/file/d/19DktYRMcwxPwIiyZBw_eKoa8QFrDTKXT/view?usp=sharing)    
   Daniel Henselmann and Andreas Harth
 
-* **Explainable Validation of Data Sharing Agreements using DPV, SHACL, and Human-in-the-Loop Review**  
+* **Explainable Validation of Data Sharing Agreements using DPV, SHACL, and Human-in-the-Loop Review** [(PDF)](https://drive.google.com/file/d/1mjxQWc88TeDGjWu00I73PDKpGMCze0Lf/view?usp=sharing)    
   Julio Hernandez and Harshvardhan Pandit
 
-* **Robust Knowledge Graph Embedding via Denoising**  
+* **Robust Knowledge Graph Embedding via Denoising** [(PDF)](https://drive.google.com/file/d/1eyxj-nyrXF16YCeIOM3ctWADsNIlg61r/view?usp=sharing)    
   Tengwei Song, Xudong Ma, Yang Liu, Jie Luo and Robert Hoehndorf
 
-* **No Need to Be a Know-It-All: Fact Checking with Shallow Knowledge**  
+* **No Need to Be a Know-It-All: Fact Checking with Shallow Knowledge** [(PDF)](https://drive.google.com/file/d/15Xymco2bNPbMmF6cqAEvg8jZn2etH7CO/view?usp=sharing)    
   Umair Qudus, Neha Pokharel, Michael Röder and Axel-Cyrille Ngonga Ngomo
 
-* **Advancing NL2SPARQL via Agentic Workflow Design and Dynamic URI Grounding**  
+* **Advancing NL2SPARQL via Agentic Workflow Design and Dynamic URI Grounding** [(PDF)](https://drive.google.com/file/d/12bCZT5nwoe-kAjXFgx1ZYgNlByhdg_CZ/view?usp=sharing)    
   Franz Pawlus, Justin Weich and Markus Nilles
 
-* **Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling**  
+* **Competency Questions as Executable Plans: a Controlled RAG Architecture for Cultural Heritage Storytelling** [(PDF)](https://drive.google.com/file/d/1foAcuxFeHr1yx5lAgCM3SOxWyqyenTbZ/view?usp=sharing)    
   Naga Sowjanya Barla and Jacopo de Berardinis
 
-* **Semantics-Aware Caching for Concept Learning**  
+* **Semantics-Aware Caching for Concept Learning** [(PDF)](https://drive.google.com/file/d/1OhRPWnzVVpLhrSZhwaIoakv-d8-QjoVj/view?usp=sharing)  
   Louis Mozart Kamdem Teyou, Caglar Demir and Axel-Cyrille Ngonga Ngomo
 
-* **Document-level Relation Extraction using Reinforcement Learning with Knowledge Graph Feedback**  
+* **Document-level Relation Extraction using Reinforcement Learning with Knowledge Graph Feedback** [(PDF)](https://drive.google.com/file/d/1Kc-2zxk3PNCBpxBOrbg_xX3Jl3SHr_jW/view?usp=sharing) 
   Manzoor Ali, Hamada Zahera, Yasir Mahmood, Hashim Khan, René Speck, Muhammad Saleem and Axel-Cyrille Ngonga Ngomo
 
-* **Proving Soundness of SPARQL Query Results using Selective Disclosure of RDF Datasets and Zero-Knowledge Proofs**  
+* **Proving Soundness of SPARQL Query Results using Selective Disclosure of RDF Datasets and Zero-Knowledge Proofs** [(PDF)](https://drive.google.com/file/d/1WH7uA3D3uTvOLQ2ZtIfAuTS7d3KY_EJR/view?usp=sharing)  
   Christoph Braun, Jesse Wright and Tobias Käfer
 
-* **SPARQLing Datalog for Rule-Based Reasoning over Large Knowledge Graphs**  
+* **SPARQLing Datalog for Rule-Based Reasoning over Large Knowledge Graphs** [(PDF)](https://drive.google.com/file/d/1a7ZNkB1ZMoloY45H9rMg-qp1kwtZ8ob7/view?usp=sharing)  
   Alex Ivliev, Markus Krötzsch and Maximilian Marx
 
 ## Resources Track
