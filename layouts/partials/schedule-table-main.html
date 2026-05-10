@@ -54,7 +54,8 @@
                 {{- end }}
 
                 <br />
-                {{ if hasPrefix $entry.timeslot "session" }}<strong>{{ $entry.title }}</strong>{{ else }}{{ $entry.title }}{{ end }}
+                {{ if hasPrefix $entry.timeslot "session" }}<strong>{{ $entry.title }}</strong>
+                {{ with $entry.chair }}<div class="text-sm">Chair: {{ . }}</div>{{ end }}{{ else }}{{ $entry.title }}{{ end }}
                 {{ with $entry.authors }}<div class="text-sm">{{ . }}</div>{{ end }}
 
 
