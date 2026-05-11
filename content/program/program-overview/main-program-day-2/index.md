@@ -1,5 +1,5 @@
 ---
-title: "Conference Day 2: ESWC 2026"
+title: "Main Conference Day 2 (May 13th)"
 layout: "main-program-day-2"
 show_schedule: true
 ---
