@@ -8,9 +8,8 @@
     </div>
     {{ if .Params.show_schedule }}
     <section>
-        {{ $days := where site.Data.schedule_main.days "day" .Params.conference_day }}
-        {{ range $days }}
-            {{ partial "schedule-table-main.html" . }}
+        {{ range site.Data.schedule_main_day_3.days }}
+            {{ partial "schedule-table-main.html" (dict "schedule" site.Data.schedule_main_day_3 "day" .) }}
         {{ end }}
     </section>
     {{ end }}
