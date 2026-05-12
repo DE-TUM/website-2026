@@ -86,6 +86,7 @@ days:
       - timeslot: "session-2"
         location: "Princess Hall"
         title: "Session 6A: Machine Learning"
+        chair: "Eva Blomqvist"
       - timeslot: "session-2"
         location: "Princess 2/4/6"
         title: "Session 6B: Querying and Searching Knowledge (II)"
