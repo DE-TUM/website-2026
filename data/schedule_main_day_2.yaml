@@ -47,7 +47,7 @@ days:
         chair: "Jean-Paul Calbimonte"
       - timeslot: "11:00 – 11:20"
         location: "Princess Hall"
-        title: "Link Prediction or Perdition: the Seeds of Instability in Knowledge Graph Embeddings"
+        title: "⭐ Link Prediction or Perdition: the Seeds of Instability in Knowledge Graph Embeddings"
         authors: "Guillaume Méroué, Fabien Gandon and Pierre Monnin"
         tag: "Research" 
       - timeslot: "11:00 – 11:20"
@@ -97,7 +97,7 @@ days:
         tag: "Research" 
       - timeslot: "12:00 – 12:20"
         location: "Princess 2/4/6"
-        title: "CUBE-MT: A Cultural Benchmark for Multimodal Knowledge Graph Construction with Generative Models"
+        title: "⭐ CUBE-MT: A Cultural Benchmark for Multimodal Knowledge Graph Construction with Generative Models"
         authors: "Albert Meroño-Peñuela, Xin Fan Guo, Nitisha Jain, Filip Birčanin, Timothy Neate, Thomas van Erven, Sándor Daranyi and Nasrine Olson"
         tag: "Resource" 
       - timeslot: "12:00 – 12:20"
@@ -133,12 +133,12 @@ days:
         tag: Resource
       - timeslot: "14:00 – 14:20"
         location: "Princess 1/3/5"
-        title: "Bench4KE: Benchmarking Automated Competency Question Generation"
+        title: "⭐ Bench4KE: Benchmarking Automated Competency Question Generation"
         authors: "Anna Sofia Lippolis, Minh Davide Ragagni, Paolo Ciancarini, Andrea Giovanni Nuzzolese and Valentina Presutti"
         tag: Resource
       - timeslot: "14:20 – 14:40"
         location: "Princess Hall"
-        title: "Energy Domain Ontology Matching with Large Language Model"
+        title: "⭐ Energy Domain Ontology Matching with Large Language Model"
         authors: "Zhiyu Pan, Hanyang Li and Antonello Monti"
         tag: In-Use
       - timeslot: "14:20 – 14:40"
@@ -158,7 +158,7 @@ days:
         tag: Research
       - timeslot: "14:40 – 15:00"
         location: "Princess 2/4/6"
-        title: "BOLD: A Simulation Framework for Dynamic Linked Data Environments and a Benchmark for Linked Data User Agents"
+        title: "⭐ BOLD: A Simulation Framework for Dynamic Linked Data Environments and a Benchmark for Linked Data User Agents"
         authors: "Tobias Käfer, Victor Charpenay and Andreas Harth"
         tag: Resource
       - timeslot: "14:40 – 15:00"
