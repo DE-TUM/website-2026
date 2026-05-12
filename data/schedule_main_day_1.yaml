@@ -106,7 +106,7 @@ days:
       - timeslot: "12:00 – 12:20"
         location: "Princess 1/3/5"
         title: "AgentO: An Ontology for Modeling Agentic AI Systems"
-        authors: "Kiesling, Andreas Ekelhart and Fajar Ekaputra"
+        authors: "Kabul Kurniawan, Elmar Kiesling, Andreas Ekelhart and Fajar Ekaputra"
         tag: "Resource" 
       - timeslot: "12:20 – 14:00"
         locations: ["Princess Hall", "Princess 2/4/6", "Princess 1/3/5"]
