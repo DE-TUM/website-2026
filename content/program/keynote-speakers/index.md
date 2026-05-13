@@ -7,7 +7,6 @@ title: "Keynote Speakers"
 {{< keynote img="images/people/kiryakov.jpeg" name="Atanas Kiryakov" affiliation="Graphwise" country="Bulgary" >}}
 
 ----- 
-# Main Conference Schedule
 
 ## Day 1 (12 May): Prof. Dr. Maria-Esther Vidal
 
@@ -16,6 +15,10 @@ title: "Keynote Speakers"
 ## Day 2 (13 May): Prof. Isabelle Augenstein
 
 {{< keynote_description img="images/people/augenstein.jpg" name="Isabelle Augenstein" affiliation="University of Copenhagen" country="Denmark" bio="I am a Professor at the University of Copenhagen, Department of Computer Science, where I head the Copenhagen Natural Language Understanding research group, the Natural Language Processing section. My main research interests are fair and accountable NLP, including challenges such as explainability, factuality and bias detection. Prior to starting a faculty position, I was a postdoctoral researcher in the UCL Machine Reading group, and I hold a PhD from the University of Sheffield. In October 2022, I became Denmark’s youngest ever female full professor. I currently hold a prestigious ERC Starting Grant on 'Explainable and Robust Automatic Fact Checking'. My research has been recognised by a Karen Spärck Jones Award, as well as a Hartmann Diploma Prize. I am a member of the Royal Danish Academy of Sciences and Letters, and co-lead of the Danish Pioneer Centre for Artificial Intelligence. Source: https://isabelleaugenstein.github.io">}}
+
+### Understanding the Interplay between LLMs' Utilisation of Parametric and Contextual Knowledge 
+Language Models (LMs) acquire parametric knowledge from their training process, embedding it within their weights. The increasing scalability of LMs, however, poses significant challenges for understanding a model's inner workings and further for updating or correcting this embedded knowledge without the significant cost of retraining. Moreover, when using these language models for knowledge-intensive language understanding tasks, LMs have to integrate relevant context, mitigating their inherent weaknesses, such as incomplete or outdated knowledge. Nevertheless, studies indicate that LMs often ignore the provided context as it can be in conflict with the pre-existing LM's memory learned during pre-training. Conflicting knowledge can also already be present in the LM's parameters, termed intra-memory conflict. This underscores the importance of understanding the interplay between how a language model uses its parametric knowledge and the retrieved contextual knowledge.
+In this talk, I will aim to shed light on this important issue by presenting our research on evaluating the knowledge present in LMs, diagnostic tests that can reveal knowledge conflicts, as well as on understanding the characteristics of successfully used contextual knowledge.
 
 
 ## Day 3 (14 May): Atanas Kiryakov
