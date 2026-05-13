@@ -128,7 +128,7 @@ days:
       - timeslot: "15:00 – 15:20"
         location: "Princess Hall"
         title: "Integrating Meta-Features with Knowledge Graph Embeddings for Meta-Learning"
-        authors: "Antonis Klironomos, Ioannis Dasoulas, Mohamed H. Gad-Elrab, Anastasia Dimou, Heiko Paulheim, Evgeny Kharlamov and Francesco Periti"
+        authors: "Antonis Klironomos, Ioannis Dasoulas, Francesco Periti, Mohamed Gad-Elrab, Heiko Paulheim, Anastasia Dimou, Evgeny Kharlamov"
         tag: Research
       - timeslot: "15:00 – 15:20"
         location: "Princess 2/4/6"

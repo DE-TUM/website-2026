@@ -56,7 +56,7 @@ title: "Accepted Research, Resource, and In-Use Papers"
   Jaime Osvaldo Salas Trejo, Paolo Pareti and George Konstantinidis
 
 * **Integrating Meta-Features with Knowledge Graph Embeddings for Meta-Learning** [(PDF)](https://drive.google.com/file/d/1onxHizuVM2InstyXIG1GEfLRf9q_ehgk/view?usp=sharing)  
-  Antonis Klironomos, Ioannis Dasoulas, Mohamed H. Gad-Elrab, Anastasia Dimou, Heiko Paulheim, Evgeny Kharlamov and Francesco Periti
+  Antonis Klironomos, Ioannis Dasoulas, Francesco Periti, Mohamed Gad-Elrab, Heiko Paulheim, Anastasia Dimou, Evgeny Kharlamov
 
 * **Parameter Efficient Continual Automated Knowledge Graph Completion** [(PDF)](https://drive.google.com/file/d/1dkZzFv4dWIzW3PsyBLKioa0H7n8UsTyM/view?usp=sharing)    
   Janna Omeliyanenko, Andreas Hotho and Daniel Schlör
