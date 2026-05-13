@@ -18,7 +18,7 @@ timeslots:
   - "15:30 – 16:00"
   - "16:00 – 17:30"
   - "17:30 – 18:30"
-  - "19:30 – 23:00"
+  - "20:00 – 23:00"
 
 days:
   - date: "May 13th"
@@ -195,7 +195,7 @@ days:
       - timeslot: "17:30 – 18:30"
         locations: ["Princess 2/4/6"]
         title: "Town Hall"
-      - timeslot: "19:30 – 23:00"
+      - timeslot: "20:00 – 23:00"
         locations: ["Princess Hall", "Princess 2/4/6", "Princess 1/3/5"]
         title: "Gala Dinner"
  
