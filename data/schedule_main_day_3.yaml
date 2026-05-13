@@ -85,7 +85,7 @@ days:
         tag: "Research" 
       - timeslot: "12:20 – 14:00"
         locations: ["Princess Hall", "Princess 2/4/6"]
-        title: "Lunch Break and EU Project Networking lunch"
+        title: ""
         tag: "Lunch Break" 
       - timeslot: "session-2"
         location: "Princess Hall"
