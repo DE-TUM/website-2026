@@ -15,8 +15,8 @@ timeslots:
   - "14:20 – 14:40"
   - "14:40 – 15:00"
   - "15:00 – 15:20"
-  - "15:30 – 15:45"
   - "15:45 – 16:30"
+
 
 days:
   - date: "May 14th"
@@ -135,13 +135,9 @@ days:
         title: "SPARQLing Datalog for Rule-Based Reasoning over Large Knowledge Graphs"
         authors: "Alex Ivliev, Markus Krötzsch and Maximilian Marx"
         tag: Research
-      - timeslot: "15:30 – 15:45"
-        locations: ["Princess Hall", "Princess 2/4/6"]
-        title: ""
-        tag: "Coffee Break"
       - timeslot: "15:45 – 16:30"
         locations: ["Princess Hall"]
-        title: "Closing"
+        title: "Closing Ceremony"
 
 
 
